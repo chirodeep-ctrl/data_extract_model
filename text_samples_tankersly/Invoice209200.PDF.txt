@@ -1,0 +1,102 @@
+
+          FROM:
+          Tankersley    Foodservice                                                                                                                                               IMPORTANT!
+                                                                                                                                                        Please  make   check  payable  to and  send  all payments   to:
+          PO   Box  607
+                                                                                                                                                        Tankersley   Foodservice
+          Van   Buren,   AR  72957                                                                                                                      PO  Box  607
+                                                                                                                                                        Van  Buren,  AR  72957
+                                                                                                                                                        ,
+          TO:
+                                                                                                                                                          This  Statement   was  generated   on 06/14/2022  and  covers
+          TYSON     FOODS      INC                                                                                                                           program   activity between  01/01/2022   and  03/26/2022
+          P.O.  BOX    915143
+                                                                                                                                                        Our  Invoice Number:           Amount    Due:
+          DALLAS       TX  75391-5143
+                                                                                                                                                        209200                         $69.00
+
+           Purchased    Through:          TYSON    FOODS    INC  (201107)                                              This  Invoice  is to be paid  by  TYSON   FOODS    INC  (201107)
+           Program    Description:        SOUTHFORK       - 3810
+           MFG   Program   ID:                                                                                         Program    ID:         37087
+           Program    Start Date:         01/02/2022           Stop  Date:  12/31/2022
+           Program    Specifics:          $3.0000/case   Regular  Program  (unless a specific item program  overides this amount)
+
+
+          The  Following  Details  Itemize The  Allowed  Sales  Under  This  Program.
+           Inv. Number  Inv. Date Customer ID Customer Name                     Brand      PackSize    Description         Product ID     DID        UPC        Quantity   Total Weight Total Charges     Program Amount        Amount Due
+          3112373     01/31/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    30 5.33    BEEF, CHICKEN        10000012293   728330      10000012293    2.00      20.00      $91.50          $3.0000 Per Case          $6.00
+                                                                            PIERRE     OZ         FRY STEAK TEXAS
+                                                                                                  STYLE
+          3130273     03/14/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    30 5.33    BEEF, CHICKEN        10000012293   728330      10000012293    4.00      40.00     $185.00          $3.0000 Per Case         $12.00
+                                                                            PIERRE     OZ         FRY STEAK TEXAS
+                                                                                                  STYLE
+          3133196     03/21/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    30 5.33    BEEF, CHICKEN        10000012293   728330      10000012293    3.00      30.00     $138.75          $3.0000 Per Case          $9.00
+                                                                            PIERRE     OZ         FRY STEAK TEXAS
+                                                                                                  STYLE
+                                                                                    Totals for Product BEEF, CHICKEN  FRY  STEAK  TEXAS  STYLE:                 9.00     90.00      $415.25                                  $27.00
+          3100196     01/03/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    32 4.5     CHICKEN, BRD         10000036545   761490      10000036545    1.00       9.00      $49.10          $3.0000 Per Case          $3.00
+                                                                            PIERRE     OZ         FILLET BREAST
+                                                                                                  LEGEND
+          3106395     01/17/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    32 4.5     CHICKEN, BRD         10000036545   761490      10000036545    2.00      18.00      $98.20          $3.0000 Per Case          $6.00
+                                                                            PIERRE     OZ         FILLET BREAST
+                                                                                                  LEGEND
+          3109128     01/24/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    32 4.5     CHICKEN, BRD         10000036545   761490      10000036545    1.00       9.00      $49.10          $3.0000 Per Case          $3.00
+                                                                            PIERRE     OZ         FILLET BREAST
+                                                                                                  LEGEND
+          3112373     01/31/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    32 4.5     CHICKEN, BRD         10000036545   761490      10000036545    1.00       9.00      $49.10          $3.0000 Per Case          $3.00
+                                                                            PIERRE     OZ         FILLET BREAST
+                                                                                                  LEGEND
+          3114775     02/07/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    32 4.5     CHICKEN, BRD         10000036545   761490      10000036545    1.00       9.00      $49.10          $3.0000 Per Case          $3.00
+                                                                            PIERRE     OZ         FILLET BREAST
+                                                                                                  LEGEND
+          3117911     02/14/2022  80188       SOUTHFORK TRUCK STOP            ADVANCE    32 4.5     CHICKEN, BRD         10000036545   761490      10000036545    1.00       9.00      $49.10          $3.0000 Per Case          $3.00
+                                                                            PIERRE     OZ         FILLET BREAST
+                                                                                                  LEGEND                                                                                                  Powered by Trackmax
+          Tuesday,   June  14, 2022                                       This Invoice is Due  Upon  Receipt And  Is Subject  To Deduction  After 30 Days.                                                                 Page  1
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    01/01/2022    and  03/26/2022                                                                   Invoice   Number:    209200
+                                                                                ADVANCE     32 4.5   CHICKEN, BRD
+                        Inv. Date  Customer ID                                   Brand       PackSize Description                 Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+            Inv. Number                         Customer Name                     PIERRE      OZ       FILLET BREAST
+                                                                                                     LEGEND
+           3121071      02/21/2022  80188      SOUTHFORK   TRUCK  STOP           ADVANCE     32 4.5   CHICKEN, BRD            10000036545    761490     10000036545       2.00      18.00      $98.20           $3.0000 Per Case          $6.00
+                                                                                PIERRE      OZ       FILLET BREAST
+                                                                                                     LEGEND
+           3123899      02/28/2022  80188      SOUTHFORK   TRUCK  STOP           ADVANCE     32 4.5   CHICKEN, BRD            10000036545    761490     10000036545       1.00        9.00     $49.10           $3.0000 Per Case          $3.00
+                                                                                PIERRE      OZ       FILLET BREAST
+                                                                                                     LEGEND
+           3127206      03/07/2022  80188      SOUTHFORK   TRUCK  STOP           ADVANCE     32 4.5   CHICKEN, BRD            10000036545    761490     10000036545       2.00      18.00      $97.22           $3.0000 Per Case          $6.00
+                                                                                PIERRE      OZ       FILLET BREAST
+                                                                                                     LEGEND
+           3130273      03/14/2022  80188      SOUTHFORK   TRUCK  STOP           ADVANCE     32 4.5   CHICKEN, BRD            10000036545    761490     10000036545       1.00        9.00     $49.10           $3.0000 Per Case          $3.00
+                                                                                PIERRE      OZ       FILLET BREAST
+                                                                                                     LEGEND
+           3133196      03/21/2022  80188      SOUTHFORK   TRUCK  STOP           ADVANCE     32 4.5   CHICKEN, BRD            10000036545    761490     10000036545       1.00        9.00     $49.10           $3.0000 Per Case          $3.00
+                                                                                PIERRE      OZ       FILLET BREAST
+                                                                                                     LEGEND
+                                                                                           Totals for Product  CHICKEN,  BRD  FILLET  BREAST   LEGEND:                 14.00      126.00     $686.42                                    $42.00
+                                                                                                       Totals for Location TANKERSLEY     WAREHOUSES:                   23.00     216.00     $1,101.67                                  $69.00
+
+
+                                                                                                                                               Grand  Totals:           23.00     216.00     $1,101.67                                  $69.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                     Powered  by Trackmax
+           Tuesday,    June  14,  2022                                        This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                                 Page   2

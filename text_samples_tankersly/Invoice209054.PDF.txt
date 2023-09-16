@@ -1,0 +1,499 @@
+
+           FROM:
+           Tankersley      Foodservice                                                                                                                                                       IMPORTANT!
+                                                                                                                                                                Please   make   check   payable   to  and  send  all payments     to:
+           PO   Box   607
+                                                                                                                                                                Tankersley    Foodservice
+           Van   Buren,    AR   72957                                                                                                                           PO   Box  607
+                                                                                                                                                                Van   Buren,   AR  72957
+                                                                                                                                                                ,
+           TO:
+                                                                                                                                                                   This  Statement    was   generated   on  06/14/2022    and  covers
+           TYSON      FOODS       INC                                                                                                                                 program    activity between    04/24/2022    and  05/21/2022
+           P.O.   BOX    915143
+                                                                                                                                                                Our   Invoice  Number:             Amount    Due:
+           DALLAS        TX   75391-5143
+                                                                                                                                                                209054                             $4,070.00
+
+            Purchased     Through:           TYSON     FOODS    INC   (201107)                                                This  Invoice  is to be  paid  by  TYSON     FOODS    INC   (201107)
+            Program     Description:         LARRY'S     PIZZA   - 3691
+            MFG    Program    ID:            1177256                                                                          Program    ID:          37236
+             Program    Start Date:          01/30/2022            Stop  Date:   12/31/2022
+             Program    Specifics:           $2.5000/case    Regular   Program   (unless  a specific item  program   overides  this amount)
+
+
+           The  Following    Details  Itemize  The   Allowed   Sales  Under   This  Program.
+            Inv. Number   Inv. Date  Customer ID Customer Name                       Brand       PackSize  Description           Product ID      DID        UPC         Quantity    Total Weight Total Charges      Program Amount         Amount Due
+           3149254      04/26/2022  13177      LARRY'S PIZZA-WHITE HALL            PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3150608      04/28/2022  72065      LARRY'S PIZZA HASKELL               PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3150665      04/28/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3151804      05/02/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3151806      05/02/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3153680      05/05/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3153699      05/05/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3154407      05/06/2022  72062      LARRY'S PIZZA OF CABOT              PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+           3154429      05/06/2022  13177      LARRY'S PIZZA-WHITE HALL            PIZZANO     2 5 LB    PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case           $2.00
+                                                                                                         ITALIAN SAUSAGE
+                                                                                                        1548
+
+                                                                                                                                                                                                                      Powered  by Trackmax
+           Tuesday,    June  14,  2022                                          This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                                 Page   1
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    04/24/2022    and  05/21/2022                                                                     Invoice   Number:    209054
+            Inv. Number   Inv. Date  Customer ID Customer Name                       Brand       PackSize   Description               Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+           3155158      05/09/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3155264      05/09/2022  11644      LARRY'S PIZZA BRYANT                PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3155265      05/09/2022  28248      LARRY'S PIZZA SALEM                 PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3155767      05/10/2022  13177      LARRY'S PIZZA-WHITE HALL            PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3157079      05/12/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3157081      05/12/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3157612      05/13/2022  11644      LARRY'S PIZZA BRYANT                PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3158034      05/13/2022  13177      LARRY'S PIZZA-WHITE HALL            PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.70           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3158466      05/16/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.15           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3158469      05/16/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.15           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3158542      05/16/2022  11644      LARRY'S PIZZA BRYANT                PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.15           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3160064      05/19/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.15           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3160653      05/20/2022  13177      LARRY'S PIZZA-WHITE HALL            PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.15           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3160723      05/20/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       2.00      20.00      $56.30           $2.0000 Per Case          $4.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+           3160898      05/20/2022  11644      LARRY'S PIZZA BRYANT                PIZZANO     2 5 LB     PIZZA TOPPING,        001548-0393    769270     001548-0393       1.00      10.00      $28.15           $2.0000 Per Case          $2.00
+                                                                                                          ITALIAN SAUSAGE
+                                                                                                         1548
+                                                                                             Totals for Product PIZZA  TOPPING,   ITALIAN SAUSAGE    1548:               25.00      250.00     $713.10                                    $50.00
+           3148626      04/25/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB     PIZZA TOPPING,        002546-0393    769300     002546-0393       2.00      20.00      $71.90           $8.0000 Per Case         $16.00
+                                                                                                         BEEF 2546
+           3148628      04/25/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB     PIZZA TOPPING,        002546-0393    769300     002546-0393       7.00      70.00     $251.65           $8.0000 Per Case         $56.00
+                                                                                                         BEEF 2546
+           3148629      04/25/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB     PIZZA TOPPING,        002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                         BEEF 2546
+           3148631      04/25/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB     PIZZA TOPPING,        002546-0393    769300     002546-0393       7.00      70.00     $251.65           $8.0000 Per Case         $56.00
+                                                                                                         BEEF 2546
+           3148632      04/25/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB     PIZZA TOPPING,        002546-0393    769300     002546-0393       2.00      20.00      $71.90           $8.0000 Per Case         $16.00
+                                                                                                         BEEF 2546
+           3148838      04/25/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB     PIZZA TOPPING,        002546-0393    769300     002546-0393      13.00     130.00     $467.35           $8.0000 Per Case        $104.00
+                                                                                                         BEEF 2546
+
+                                                                                                                                                                                                                       Powered  by Trackmax
+           Tuesday,    June  14,  2022                                          This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                                 Page   2
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    04/24/2022    and  05/21/2022                                                                   Invoice   Number:    209054
+            Inv. Number   Inv. Date  Customer ID Customer Name                       Brand       PackSize  Description              Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+           3148839      04/25/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3148840      04/25/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       5.00      50.00     $179.75           $8.0000 Per Case         $40.00
+                                                                                                        BEEF 2546
+           3150608      04/28/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $105.00           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3150629      04/28/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $140.00           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3150663      04/28/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $105.00           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3150665      04/28/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $140.00           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3151093      04/29/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      16.00     160.00     $560.00           $8.0000 Per Case        $128.00
+                                                                                                        BEEF 2546
+           3151101      04/29/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $105.00           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3151378      04/29/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $210.00           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3151383      04/29/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $140.00           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3151804      05/02/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $140.00           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3151805      05/02/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       8.00      80.00     $280.00           $8.0000 Per Case         $64.00
+                                                                                                        BEEF 2546
+           3151806      05/02/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $140.00           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3151807      05/02/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $105.00           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3151809      05/02/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $210.00           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3151985      05/02/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      10.00     100.00     $350.00           $8.0000 Per Case         $80.00
+                                                                                                        BEEF 2546
+           3151986      05/02/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $210.00           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3152492      05/03/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      17.00     170.00     $595.00           $8.0000 Per Case        $136.00
+                                                                                                        BEEF 2546
+           3153680      05/05/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       2.00      20.00      $71.90           $8.0000 Per Case         $16.00
+                                                                                                        BEEF 2546
+           3153697      05/05/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $107.85           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3153699      05/05/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3153748      05/05/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       5.00      50.00     $179.75           $8.0000 Per Case         $40.00
+                                                                                                        BEEF 2546
+           3154394      05/06/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       7.00      70.00     $251.65           $8.0000 Per Case         $56.00
+                                                                                                        BEEF 2546
+           3154407      05/06/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3154665      05/06/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      15.00     150.00     $539.25           $8.0000 Per Case        $120.00
+                                                                                                        BEEF 2546
+           3154666      05/06/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       8.00      80.00     $287.60           $8.0000 Per Case         $64.00
+                                                                                                        BEEF 2546
+           3155155      05/09/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       5.00      50.00     $179.75           $8.0000 Per Case         $40.00
+                                                                                                        BEEF 2546
+           3155156      05/09/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       2.00      20.00      $71.90           $8.0000 Per Case         $16.00
+                                                                                                        BEEF 2546
+           3155157      05/09/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+                                                                                                                                                                                                                     Powered  by Trackmax
+           Tuesday,    June  14,  2022                                          This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                               Page   3
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    04/24/2022    and  05/21/2022                                                                   Invoice   Number:    209054
+            Inv. Number   Inv. Date  Customer ID Customer Name                       Brand       PackSize  Description              Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+           3155157      05/09/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3155158      05/09/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $107.85           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3155159      05/09/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       5.00      50.00     $179.75           $8.0000 Per Case         $40.00
+                                                                                                        BEEF 2546
+           3155264      05/09/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      13.00     130.00     $467.35           $8.0000 Per Case        $104.00
+                                                                                                        BEEF 2546
+           3155265      05/09/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       7.00      70.00     $251.65           $8.0000 Per Case         $56.00
+                                                                                                        BEEF 2546
+           3155266      05/09/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3157017      05/12/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3157078      05/12/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3157079      05/12/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $107.85           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3157081      05/12/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3157612      05/13/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      17.00     170.00     $611.15           $8.0000 Per Case        $136.00
+                                                                                                        BEEF 2546
+           3157613      05/13/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       2.00      20.00      $71.90           $8.0000 Per Case         $16.00
+                                                                                                        BEEF 2546
+           3157763      05/13/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3157764      05/13/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       2.00      20.00      $71.90           $8.0000 Per Case         $16.00
+                                                                                                        BEEF 2546
+           3158463      05/16/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3158464      05/16/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3158465      05/16/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $107.85           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3158466      05/16/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3158469      05/16/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3158541      05/16/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       7.00      70.00     $251.65           $8.0000 Per Case         $56.00
+                                                                                                        BEEF 2546
+           3158542      05/16/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      12.00     120.00     $431.40           $8.0000 Per Case         $96.00
+                                                                                                        BEEF 2546
+           3158543      05/16/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3160060      05/19/2022  72061      LARRY'S PIZZA WEST  CANT            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       2.00      20.00      $71.90           $8.0000 Per Case         $16.00
+                                                                                                        BEEF 2546
+           3160063      05/19/2022  72060      LARRY'S PIZZA LR INC BOW            DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3160064      05/19/2022  72064      LARRY'S PIZZA DOWNTOWN              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+           3160123      05/19/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393      17.00     170.00     $611.15           $8.0000 Per Case        $136.00
+                                                                                                        BEEF 2546
+           3160124      05/19/2022  72065      LARRY'S PIZZA HASKELL               DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       3.00      30.00     $107.85           $8.0000 Per Case         $24.00
+                                                                                                        BEEF 2546
+           3160640      05/20/2022  28248      LARRY'S PIZZA SALEM                 DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       8.00      80.00     $287.60           $8.0000 Per Case         $64.00
+                                                                                                        BEEF 2546
+           3160663      05/20/2022  72062      LARRY'S PIZZA OF CABOT              DOSKOCIL    2 5 LB    PIZZA TOPPING,       002546-0393    769300     002546-0393       4.00      40.00     $143.80           $8.0000 Per Case         $32.00
+                                                                                                        BEEF 2546
+                                                                                                                                                                                                                     Powered  by Trackmax
+           Tuesday,    June  14,  2022                                          This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                               Page   4
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    04/24/2022    and  05/21/2022                                                                    Invoice   Number:    209054
+            Inv. Number   Inv. Date  Customer ID Customer Name                       Brand       PackSize  Description               Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+           3160723      05/20/2022  72063      LARRY'S PIZZA OF NLR JFK            DOSKOCIL    2 5 LB    PIZZA TOPPING,        002546-0393    769300     002546-0393       6.00      60.00     $215.70           $8.0000 Per Case         $48.00
+                                                                                                        BEEF 2546
+           3160787      05/20/2022  77008      LARRY'S PIZZA PARAGOULD             DOSKOCIL    2 5 LB    PIZZA TOPPING,        002546-0393    769300     002546-0393       1.00      10.00      $35.95           $8.0000 Per Case          $8.00
+                                                                                                        BEEF 2546
+           3160898      05/20/2022  11644      LARRY'S PIZZA BRYANT                DOSKOCIL    2 5 LB    PIZZA TOPPING,        002546-0393    769300     002546-0393       7.00      70.00     $251.65           $8.0000 Per Case         $56.00
+                                                                                                        BEEF 2546
+                                                                                                           Totals for Product  PIZZA  TOPPING,  BEEF  2546:            390.00    3,900.00   $13,924.55                                 $3,120.00
+           3148626      04/25/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3148628      04/25/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       4.00      40.00     $108.80           $4.0000 Per Case         $16.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3148629      04/25/2022  72062      LARRY'S PIZZA OF CABOT              PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3148631      04/25/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       3.00      30.00      $81.60           $4.0000 Per Case         $12.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3148632      04/25/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3148840      04/25/2022  72065      LARRY'S PIZZA HASKELL               PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3150608      04/28/2022  72065      LARRY'S PIZZA HASKELL               PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       1.00      10.00      $27.20           $4.0000 Per Case          $4.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3150629      04/28/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       3.00      30.00      $81.60           $4.0000 Per Case         $12.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3150663      04/28/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3150665      04/28/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3151101      04/29/2022  72062      LARRY'S PIZZA OF CABOT              PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3151378      04/29/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $54.40           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3151805      05/02/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       6.00      60.00     $165.30           $4.0000 Per Case         $24.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3151806      05/02/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $55.10           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3151807      05/02/2022  72062      LARRY'S PIZZA OF CABOT              PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       1.00      10.00      $27.55           $4.0000 Per Case          $4.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3151809      05/02/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       4.00      40.00     $110.20           $4.0000 Per Case         $16.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3151986      05/02/2022  72065      LARRY'S PIZZA HASKELL               PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $55.10           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+
+                                                                                                                                                                                                                      Powered  by Trackmax
+           Tuesday,    June  14,  2022                                          This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                                Page   5
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    04/24/2022    and  05/21/2022                                                                   Invoice   Number:    209054
+            Inv. Number   Inv. Date  Customer ID Customer Name                       Brand       PackSize  Description              Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+           3153697      05/05/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $55.10           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3153699      05/05/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $55.10           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3153748      05/05/2022  72065      LARRY'S PIZZA HASKELL               PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       1.00      10.00      $27.55           $4.0000 Per Case          $4.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3154394      05/06/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       4.00      40.00     $110.20           $4.0000 Per Case         $16.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3154407      05/06/2022  72062      LARRY'S PIZZA OF CABOT              PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       1.00      10.00      $27.55           $4.0000 Per Case          $4.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3155155      05/09/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       3.00      30.00      $84.45           $4.0000 Per Case         $12.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3155156      05/09/2022  72062      LARRY'S PIZZA OF CABOT              PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3155157      05/09/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       3.00      30.00      $84.45           $4.0000 Per Case         $12.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3155158      05/09/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       1.00      10.00      $28.15           $4.0000 Per Case          $4.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3155159      05/09/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       4.00      40.00     $112.60           $4.0000 Per Case         $16.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3155266      05/09/2022  72065      LARRY'S PIZZA HASKELL               PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3157017      05/12/2022  72065      LARRY'S PIZZA HASKELL               PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3157078      05/12/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3157081      05/12/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       4.00      40.00     $112.60           $4.0000 Per Case         $16.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3157763      05/13/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       3.00      30.00      $84.45           $4.0000 Per Case         $12.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3158463      05/16/2022  72062      LARRY'S PIZZA OF CABOT              PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3158464      05/16/2022  72063      LARRY'S PIZZA OF NLR JFK            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       3.00      30.00      $84.45           $4.0000 Per Case         $12.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3158465      05/16/2022  72061      LARRY'S PIZZA WEST  CANT            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3158466      05/16/2022  72060      LARRY'S PIZZA LR INC BOW            PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       4.00      40.00     $112.60           $4.0000 Per Case         $16.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+           3158469      05/16/2022  72064      LARRY'S PIZZA DOWNTOWN              PIZZANO     2 5 LB    PIZZA TOPPING,       001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                        PORK  SMALL
+                                                                                                        CHUNK
+                                                                                                                                                                                                                     Powered  by Trackmax
+           Tuesday,    June  14,  2022                                          This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                               Page   6
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    04/24/2022    and  05/21/2022                                                                   Invoice   Number:    209054
+            Inv. Number   Inv. Date  Customer ID Customer Name                      Brand       PackSize  Description               Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+           3160060      05/19/2022  72061      LARRY'S PIZZA WEST  CANT           PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                       PORK  SMALL
+                                                                                                       CHUNK
+           3160064      05/19/2022  72064      LARRY'S PIZZA DOWNTOWN             PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       2.00      20.00      $56.30           $4.0000 Per Case          $8.00
+                                                                                                       PORK  SMALL
+                                                                                                       CHUNK
+           3160663      05/20/2022  72062      LARRY'S PIZZA OF CABOT             PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       1.00      10.00      $28.15           $4.0000 Per Case          $4.00
+                                                                                                       PORK  SMALL
+                                                                                                       CHUNK
+           3160723      05/20/2022  72063      LARRY'S PIZZA OF NLR JFK           PIZZANO     2 5 LB    PIZZA TOPPING,        001555-0393    769320     001555-0393       3.00      30.00      $84.45           $4.0000 Per Case         $12.00
+                                                                                                       PORK  SMALL
+                                                                                                       CHUNK
+                                                                                              Totals for Product  PIZZA TOPPING,   PORK   SMALL  CHUNK:                99.00      990.00    $2,746.20                                  $396.00
+           3148838      04/25/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       3.00      30.00      $70.65           $4.0000 Per Case         $12.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3148839      04/25/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       2.00      20.00      $47.10           $4.0000 Per Case          $8.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3149254      04/26/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       8.00      80.00     $188.40           $4.0000 Per Case         $32.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3151059      04/29/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       8.00      80.00     $188.40           $4.0000 Per Case         $32.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3151093      04/29/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $94.20           $4.0000 Per Case         $16.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3151383      04/29/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       3.00      30.00      $70.65           $4.0000 Per Case         $12.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3151984      05/02/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       7.00      70.00     $164.85           $4.0000 Per Case         $28.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3151985      05/02/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $94.20           $4.0000 Per Case         $16.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3152477      05/03/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       8.00      80.00     $188.40           $4.0000 Per Case         $32.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3153931      05/05/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       3.00      30.00      $70.65           $4.0000 Per Case         $12.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3154429      05/06/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $94.20           $4.0000 Per Case         $16.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3154665      05/06/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       7.00      70.00     $164.85           $4.0000 Per Case         $28.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3154666      05/06/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       3.00      30.00      $70.65           $4.0000 Per Case         $12.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3155264      05/09/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       3.00      30.00      $72.45           $4.0000 Per Case         $12.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3155265      05/09/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       3.00      30.00      $72.45           $4.0000 Per Case         $12.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD
+           3155767      05/10/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB    PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $96.60           $4.0000 Per Case         $16.00
+                                                                                                       SAUSAGE
+                                                                                                       CRUMBLE  PCKD                                                                                                 Powered  by Trackmax
+           Tuesday,    June  14,  2022                                         This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                                Page   7
+
+           This  Statement    was   generated   on  06/14/2022    and  covers   program    activity between    04/24/2022    and  05/21/2022                                                                    Invoice   Number:    209054
+            Inv. Number   Inv. Date  Customer ID Customer Name                      Brand       PackSize   Description               Product ID  DID         UPC        Quantity   Total Weight  Total Charges         Program Amount    Due
+           3155767      05/10/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $96.60           $4.0000 Per Case         $16.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3157612      05/13/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       8.00      80.00     $193.20           $4.0000 Per Case         $32.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3157613      05/13/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $96.60           $4.0000 Per Case         $16.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3158541      05/16/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $96.60           $4.0000 Per Case         $16.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3158542      05/16/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       6.00      60.00     $144.90           $4.0000 Per Case         $24.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3158978      05/17/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       8.00      80.00     $193.20           $4.0000 Per Case         $32.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3160123      05/19/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       3.00      30.00      $72.45           $4.0000 Per Case         $12.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3160640      05/20/2022  28248      LARRY'S PIZZA SALEM                BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       4.00      40.00      $96.60           $4.0000 Per Case         $16.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3160653      05/20/2022  13177      LARRY'S PIZZA-WHITE HALL           BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       8.00      80.00     $193.20           $4.0000 Per Case         $32.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+           3160898      05/20/2022  11644      LARRY'S PIZZA BRYANT               BONICI      2 5 LB     PIZZA TOPPING,        015693-0465    769415     015693-0465       7.00      70.00     $169.05           $4.0000 Per Case         $28.00
+                                                                                                        SAUSAGE
+                                                                                                        CRUMBLE  PCKD
+                                                                                        Totals for Product  PIZZA TOPPING,   SAUSAGE    CRUMBLE    PCKD:               126.00    1,260.00    $3,004.50                                  $504.00
+                                                                                                         Totals for Location TANKERSLEY     WAREHOUSES:                 640.00    6,400.00   $20,388.35                                $4,070.00
+
+
+                                                                                                                                                Grand  Totals:          640.00    6,400.00   $20,388.35                                $4,070.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                      Powered  by Trackmax
+           Tuesday,    June  14,  2022                                         This Invoice  is Due  Upon   Receipt  And   Is Subject  To  Deduction   After 30  Days.                                                                 Page   8
