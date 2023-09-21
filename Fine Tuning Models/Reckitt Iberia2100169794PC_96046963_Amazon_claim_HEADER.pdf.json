@@ -1,0 +1,18 @@
+[
+    {
+      "role": "user",
+      "content": "                                                                                         Invoice\n      Invoice  date                07.02.23                          Remittance   address         Reckitt  Benckiser  (Espa#a)  S.L.\n      Invoice  number              2100169794                                                     Paseo  de Gracia  9 Barcelona\n      Payment  terms               30 EOM                                                         08007\n      Delivery  date               07.02.23                          Payee  code                  RED3X\n      Amazon  Billing  Address     AMAZON  EU SARL,  SUCURSAL  EN    Tracking  numbers            (none)\n                                   ESPANA                            VAT  Registration  Number.   ESB48001770\n                                   Calle  de Ramirez  de Prado,  5\n                                   Madrid,\n                                   28045\n                                   ES\n      Amazon  VAT  Registration#   ESW0184081H\n      Amazon  Warehouse            XMA3\n      Amazon  Warehouse  Address   CEVA XMA3-XESF\n                                   C/Plata  s/n (access  by C/\n                                   Paladio).  P.I.  Dehesa de  la\n                                   Plata  1\n                                   45340  Ontigola\n                                   ES\n\n"
+    },
+    {
+      "role": "user",
+      "content": "Give me Invoice  date,Invoice  number,Payment  terms,Delivery  date,Amazon  Billing  Address,Amazon  VAT  Registration#,Amazon  Warehouse,Amazon  Warehouse  Address,Remittance   address,Payee  code,Tracking  numbers,VAT  Registration  Number in json format where comma separated values are keys."
+    },
+    {
+      "role": "user",
+      "content": "Address fields can have multiline values."
+    },
+    {
+      "role": "assistant",
+      "content": "{\n   \"Invoice date\":\"07.02.23\",\n   \"Invoice number\":\"2100169794\",\n   \"Payment terms\":\"30 EOM\",\n   \"Delivery date\":\"07.02.23\",\n   \"Amazon Billing Address\":\"AMAZON EU SARL, SUCURSAL EN ESPANA\\nCalle de Ramirez de Prado, 5\\nMadrid, 28045\\nES\",\n   \"Amazon VAT Registration#\":\"ESW0184081H\",\n   \"Amazon Warehouse\":\"XMA3\",\n   \"Amazon Warehouse Address\":\"CEVA XMA3-XESF\\nC/Plata s/n (access by C/Paladio). P.I. Dehesa de la Plata 1\\n45340 Ontigola\\nES\",\n   \"Remittance address\":\"Reckitt Benckiser (Espa#a) S.L.\\nPaseo de Gracia 9 Barcelona\\n08007\",\n   \"Payee code\":\"RED3X\",\n   \"Tracking numbers\":\"(none)\",\n   \"VAT Registration Number\":\"ESB48001770\"\n}"
+    }
+  ]

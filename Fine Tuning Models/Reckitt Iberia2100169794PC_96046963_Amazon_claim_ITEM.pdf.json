@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": "       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou\n                                                                                                                   ice     t       st      ty      e       unt     nt\n       5IRZISAB      B002C6LMIY     3059940006839      349607            Destop Express - Desatascador para            3.69   0.0 %    3.69    184    ES 21  142.42 820.65 EUR\n                                                                         Tuberías Superconcentrado con sosa             EUR             EUR                     EUR\n                                                                         cáustica, formato gel - 1L\n       5IRZISAB      B003U54C9M     4002448046462      3048418           Finish Ambientador para Lavavajillas con      3.36   0.0 %    3.36     90    ES 21   63.40 365.35 EUR\n                                                                         tecnología antiolor, aroma fresco, hasta       EUR             EUR                     EUR\n                                                                         60 lavados"
+  },
+  {
+    "role": "user",
+    "content": "Consider List Price,Tax Amount,Total Amount can have multiline value. Give me the itemized json where comma separated values are the keys of json.If Tax Amount is 0.0 USD then Tax Rate is null. Include country code in Tax Rate."
+  },
+  {
+    "role": "assistant",
+    "content": "{\n  \"PO number\": \"5IRZISAB\",\n  \"ASIN\": \"B002C6LMIY\",\n  \"ISBN/EAN/UPC\": \"3059940006839\",\n  \"Model #\": \"349607\",\n  \"Description\": \"Destop Express - Desatascador para Tuberías Superconcentrado con sosa cáustica, formato gel - 1L\",\n  \"List price\": \"3.69\",\n  \"Discount\": \"0.0 %\",\n  \"Unit cost\": \"3.69\",\n  \"Quantity\": \"184\",\n  \"Tax rate\": \"21%, ES\",\n  \"Tax amount\": \"142.42\",\n  \"Total amount\": \"820.65 EUR\"\n},{\n  \"PO number\": \"5IRZISAB\",\n  \"ASIN\": \"B003U54C9M\",\n  \"ISBN/EAN/UPC\": \"4002448046462\",\n  \"Model #\": \"3048418\",\n  \"Description\": \"Finish Ambientador para Lavavajillas con tecnología antiolor, aroma fresco, hasta 60 lavados\",\n  \"List price\": \"3.36\",\n  \"Discount\": \"0.0 %\",\n  \"Unit cost\": \"3.36\",\n  \"Quantity\": \"90\",\n  \"Tax rate\": \"21%, ES\",\n  \"Tax amount\": \"63.40\",\n  \"Total amount\": \"365.35 EUR\"\n}"
+  }
+]
