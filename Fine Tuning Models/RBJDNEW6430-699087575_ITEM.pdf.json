@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": "            Line#       Line Description                                                                               Units               Unit Price                 Line Total\n                  1     MDF#  58109135: Reckitt Benckiser - S&S: 8722.76 Split Straight                                           1               23.10                        23.10\n                                                                                                                                                                                  \n                        Payment: Period 2023-02-01 to 2023-02-28\n                  2     MDF#  58109135: Reckitt Benckiser - S&S: 8722.76 Split Straight                                           1            8,693.71                   8,693.71\n                        Payment: Period 2023-02-01 to 2023-02-28\n"
+  },
+  {
+    "role": "user",
+    "content": "Each item value is below each item header. Also description can be multiline. Give me the item level data in json and include payment_period if present for each line."
+  },
+  {
+    "role": "assistant",
+    "content": "[\n  {\n    \"Line\": \"1\",\n    \"Description\": \"MDF#  58109135: Reckitt Benckiser - S&S: 8722.76 Split Straight\",\n    \"Units\": \"1\",\n    \"Unit Price\": \"23.10\",\n    \"Line Total\": \"23.10\",\n    \"Payment Period\": \"2023-02-01 to 2023-02-28\"\n  },\n  {\n    \"Line\": \"2\",\n    \"Description\": \"MDF#  58109135: Reckitt Benckiser - S&S: 8722.76 Split Straight\",\n    \"Units\": \"1\",\n    \"Unit Price\": \"8,693.71\",\n    \"Line Total\": \"8,693.71\",\n    \"Payment Period\": \"2023-02-01 to 2023-02-28\"\n  }\n]"
+  }
+]

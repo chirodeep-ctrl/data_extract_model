@@ -1,0 +1,17 @@
+[
+    {
+      "role": "user",
+      "content": "                                                                                                        TAX   INVOICE\n\n         FROM                                               TO\n                                                                                                        Total Amount (tax included)        AUD    126.31\n         Amazon Commercial Services Pty                     RB Hygiene Home  Australia\n         Ltd                                                RB 680 George Street                       Invoice Number:  ZTS080JQ6-22\n         Level 37, 2 Park Street                            L47\n                                                                                                       Invoice Date: 26-12-2019\n                                                            Sydney, New South Wales, 2000,\n         Sydney, New South Wales, 2000,\n         AU                                                 AU                                         Invoice Period: 25-12-2019 to 26-12-2019\n         ABN: 30616935623                                                                              Invoice Currency: AUD\n                                                                                                       Payment  Type: Deduct from Payment\n\n        "
+    },
+    {
+      "role": "assistant",
+      "content": "Give me FROM address, TO address,Total Amount (tax included),Invoice Number,Invoice Date,Invoice Period,Invoice Currency,Payment  Type in json format"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"FROM\": \"Amazon Commercial Services Pty Ltd, Level 37, 2 Park Street, Sydney, New South Wales, 2000, AU, ABN: 30616935623\",\n  \"TO\": \"RB Hygiene Home Australia, RB 680 George Street, L47, Sydney, New South Wales, 2000, AU\",\n  \"Total Amount (tax included)\": \"AUD 126.31\",\n  \"Invoice Number\": \"ZTS080JQ6-22\",\n  \"Invoice Date\": \"26-12-2019\",\n  \"Invoice Period\": \"25-12-2019 to 26-12-2019\",\n  \"Invoice Currency\": \"AUD\",\n  \"Payment Type\": \"Deduct from Payment\"\n}"
+    },
+    {
+      "role": "user"
+    }
+  ]
