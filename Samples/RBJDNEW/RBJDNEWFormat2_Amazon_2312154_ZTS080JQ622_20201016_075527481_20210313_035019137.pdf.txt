@@ -1,0 +1,46 @@
+
+                                                                                                        TAX   INVOICE
+
+         FROM                                               TO
+                                                                                                        Total Amount (tax included)        AUD    126.31
+         Amazon Commercial Services Pty                     RB Hygiene Home  Australia
+         Ltd                                                RB 680 George Street                       Invoice Number:  ZTS080JQ6-22
+         Level 37, 2 Park Street                            L47
+                                                                                                       Invoice Date: 26-12-2019
+                                                            Sydney, New South Wales, 2000,
+         Sydney, New South Wales, 2000,
+         AU                                                 AU                                         Invoice Period: 25-12-2019 to 26-12-2019
+         ABN: 30616935623                                                                              Invoice Currency: AUD
+                                                                                                       Payment  Type: Deduct from Payment
+
+         Campaign  Charges
+
+           Campaign                                           Campaign Type                  Destination    Clicks      Average CPC          Amount (ex. GST)
+           Harpic Sponsored Product Always On                  SPONSORED   PRODUCTS           amazon.au      11          0.39 AUD             4.34 AUD
+           Air Wick Essential Mist                               HEADLINE SEARCH  ADS           amazon.au      8           0.23 AUD             1.81 AUD
+           Air Wick Sponsored Product Always
+                                                              SPONSORED   PRODUCTS           amazon.au      9           0.22 AUD             1.94 AUD
+           On
+           Finish Brand Store Prime Day                        HEADLINE SEARCH  ADS           amazon.au      30          2.52 AUD             75.60 AUD
+           Finish Sponsored Product Always On                  SPONSORED   PRODUCTS           amazon.au      58          0.30 AUD             17.53 AUD
+           Vanish Always On                                   HEADLINE SEARCH  ADS           amazon.au      2           0.20 AUD             0.40 AUD
+           Vanish Always On Search                            SPONSORED   PRODUCTS           amazon.au      5           0.35 AUD             1.77 AUD
+           Pine O Cleen Sponsored Brand
+                                                              HEADLINE SEARCH  ADS           amazon.au      3           1.41 AUD             4.23 AUD
+           Campaign
+           Pine O Cleen_Sponsored
+                                                              SPONSORED   PRODUCTS           amazon.au      24          0.30 AUD             7.21 AUD
+           Product_Always On
+
+                                                                                                                    Campaign Charges  total: 114.83 AUD
+
+
+                                                                                                           Total Amount  Billed                    114.83 AUD
+                                                                                                           Total Adjustments                           0.00 AUD
+                                                                                                           GST Rate                                     10.00%
+                                                                                                           GST Amount                                11.48 AUD
+                                                                                                           Total Amount (GST inclusive)            126.31 AUD
+
+
+                                                    PAYMENT  METHOD:   NO PAYMENT   IS DUE  FOR THIS DOCUMENT.
+                                                Your advertising costs will be deducted from your Amazon  retail proceeds.

@@ -1,0 +1,195 @@
+
+                                                                                                                                                 Payment Request
+
+
+
+
+
+
+
+        Attn: Accounts Payable                                                                           Australian Business Number:         30 616 935 623
+        Reckitt Benckiser                                                                                Payment Request Number:            6430-699090095
+        PO Box 20097, World Square                                                                      Payment Request Date:              05-MAR-23
+        Sydney NEW SOUTH  WALES  2000                                                                   Currency:                          AUD
+        Vendor Australian Business Number:                                                               Payment Term:                      IMMEDIATE
+                                                                                                        Payment Method:                    AMZ  DEDUCT  FROM PAYMENT
+                                                                                                        Due Date:                          05-MAR-23
+
+
+           Line#    Line Description                                                                            Units           Unit Price           Line Total
+               1    MDF#  61437725: ASIN # B09CMY4M6N:  RB HyHo Post-CPI EDLP                                          1           33.24                 33.24
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:                                                                             Y
+                                                                                                                                                              Y
+                    Period 2023-02-16 to 2023-02-28
+               2    MDF#  61437725: ASIN # B08S49Z2T3: RB HyHo Post-CPI EDLP                                            1           12.24                 12.24
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+               3    MDF#  61437725: ASIN # B07K1HGLZX: RB HyHo Post-CPI EDLP                                           1          177.24         A    177.24
+                                                                                                                                                   A
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+               4    MDF#  61437725: ASIN # B0BN8LBS7B: RB HyHo Post-CPI EDLP                                           1           65.43                 65.43
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28                                                                                    P
+                                                                                                                                       P
+               5    MDF#  61437725: ASIN # B09CN2BGBT:  RB HyHo Post-CPI EDLP                                           1            6.33                   6.33
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+               6    MDF#  61437725: ASIN # B0951QMV1N:  RB HyHo Post-CPI EDLP                                           1         1,324.15             1,324.15
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+               7    MDF#  61437725: ASIN # B0BSKVMXP1:  RB HyHo Post-CPI EDLP       T 1                                             7.76                   7.76
+                                                                                                                    T
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+               8    MDF#  61437725: ASIN # B099NBXJS1: RB HyHo Post-CPI EDLP                                           1          160.80                160.80
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28                     O
+                                                                                                   O
+               9    MDF#  61437725: ASIN # B092VT6Z3G: RB HyHo Post-CPI EDLP                                           1            1.33                   1.33
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              10    MDF#  61437725: ASIN # B099NFG9YD:  RB HyHo Post-CPI EDLP                                          1           96.48                 96.48
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28         N
+                                                                                 N
+              11    MDF#  61437725: ASIN # B08S4QB9QR:  RB HyHo Post-CPI EDLP                                           1         2,073.28             2,073.28
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              12    MDF#  61437725: ASIN # B07SWCG2BG:  RB HyHo Post-CPI                                               1          313.04                313.04
+                    EDLP  Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight
+                    Payment: Period 2023-02-16 to 2023-02-28
+              13    MDF#  61437725: ASIN #O B092VW5HKS:  RB HyHo Post-CPI EDLP                                           1          153.72                153.72
+                                                      O
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              14    MDF#  61437725: ASIN # B09GVZSF8N:  RB HyHo Post-CPI EDLP                                          1          203.85                203.85
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              15    MDF#  614D 37725: ASIN # B0BFR4SB3J: RB HyHo Post-CPI EDLP                                          1           22.07                 22.07
+                                 D
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              16    MDF#  61437725: ASIN # B092VVB986: RB HyHo Post-CPI EDLP                                            1         1,321.10             1,321.10
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              17    MDF#  61437725: ASIN # B09CMY8PJZ: RB HyHo Post-CPI EDLP                                           1           22.14                 22.14
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              18    MDF#  61437725: ASIN # B09B54LSYV: RB HyHo Post-CPI EDLP                                           1          102.48                102.48
+                    Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                    Period 2023-02-16 to 2023-02-28
+              19    MDF#  61437725: ASIN # B09CMYBGDN:  RB HyHo Post-CPI                                               1           24.72                 24.72
+                    EDLP  Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight
+                    Payment: Period 2023-02-16 to 2023-02-28
+
+                                                                               Amazon Commercial Services Pty Ltd
+                                                                  Level 37 Citigroup Tower 2 Park Street Sydney, NSW 2000
+
+            Line#     Line Description                                                                          Units           Unit Price              Line Total
+               20     MDF#  61437725: ASIN # B077BQMTMF:  RB HyHo Post-CPI EDLP                                       1             30.53                    30.53
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               21     MDF#  61437725: ASIN # B0BJPVCXX8: RB HyHo Post-CPI EDLP                                        1              8.10                      8.10
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               22     MDF#  61437725: ASIN # B08S48JCX1: RB HyHo Post-CPI EDLP                                         1             48.96                    48.96
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               23     MDF#  61437725: ASIN # B09CMY4M7Z:  RB HyHo Post-CPI EDLP                                        1             11.07                    11.07
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               24     MDF#  61437725: ASIN # B0B4F3ZBSF: RB HyHo Post-CPI EDLP                                        1            133.40                   133.40
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               25     MDF#  61437725: ASIN # B07QS2KGF5:  RB HyHo Post-CPI EDLP                                       1             84.15                    84.15
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28                                                                                                              Y
+                                                                                                                                                                   Y
+               26     MDF#  61437725: ASIN # B09CDN6M89:  RB HyHo Post-CPI EDLP                                        1            980.48                   980.48
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               27     MDF#  61437725: ASIN # B0BFR9PZH8: RB HyHo Post-CPI EDLP                                        1          1,462.86                1,462.86
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:                                                                  A
+                                                                                                                                                     A
+                      Period 2023-02-16 to 2023-02-28
+               28     MDF#  61437725: ASIN # B0922HSCF7: RB HyHo Post-CPI EDLP                                        1              5.79                      5.79
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               29     MDF#  61437725: ASIN # B092VR3GL9: RB HyHo Post-CPI EDLP                                        1             58.P 74                   58.74
+                                                                                                                                        P
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               30     MDF#  61437725: ASIN # B099K5XTYT: RB HyHo Post-CPI EDLP                                        1             75.04                    75.04
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               31     MDF#  61437725: ASIN # B08S4KTQT8: RB HyHo Post-CPI EDLP                                        1             63.42                    63.42
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28                                                               T
+                                                                                                                    T
+               32     MDF#  61437725: ASIN # B08S4JDZ6Z: RB HyHo Post-CPI EDLP                                         1              9.06                      9.06
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               33     MDF#  61437725: ASIN # B09CMZGYFX:  RB HyHo Post-CPIO EDLP                                       1            228.66                   228.66
+                                                                                                   O
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               34     MDF#  61437725: ASIN # B08Q47M9BG:  RB HyHo Post-CPI EDLP                                        1            110.60                   110.60
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               35     MDF#  61437725: ASIN # B09CMZ4G11:  RB HN yHo Post-CPI EDLP                                     1              6.33                      6.33
+                                                                               N
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               36     MDF#  61437725: ASIN # B099K9R1RJ: RB HyHo Post-CPI EDLP                                        1             32.16                    32.16
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                      Period 2023-02-16 to 2023-02-28
+               37     MDF#  61437725: ASIN # B0BSKW9J4P:  RB HyHo Post-CPI EDLP                                        1             31.90                    31.90
+                      Funding - 16 Feb 23 - 31 May 23: 9502.65 Split Straight Payment:
+                                                      O
+                      Period 2023-02-16 to 2023-02-28
+                      Total               O                                                                                                              9,502.65
+                      GST                   9,502.65 @ 10.00%                                                                                                950.26
+
+                      Amount  Due                                                                                                                       10,452.91
+        Payment Instructions:D
+                                   D
+        Payment method of AMZ DEDUCT  FROM  PAYMENT  requires no action or payment at this time. This payment request is for your records only. The total
+        will be deducted against our payment liability to your company.
+
+
+        In case of queries, please "Contact Us" via Vendor Central using the following link.
+        https://vendorcentral.amazon.com.au/hz/vendor/members/contact
+
+
+
+
+
+
+
+                                                                             Amazon Commercial Services Pty Ltd
+                                                                Level 37 Citigroup Tower 2 Park Street Sydney, NSW 2000
+
+         Note: This is not a tax invoice. The Promotional Allowance payable by you to Amazon  is third party consideration for the sale of Products by Amazon to
+                                        its Customers. You should seek your own tax advice in relation to your tax implications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               Amazon Commercial Services Pty Ltd
+                                                   Level 37 Citigroup Tower 2 Park Street Sydney, NSW 2000

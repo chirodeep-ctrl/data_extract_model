@@ -1,0 +1,55 @@
+
+                                                                                                                                                               TAX INVOICE
+
+
+
+
+
+
+
+        Attn: Accounts Payable                                                                                 Australian Business Number:            30 616 935 623
+        Reckitt Benckiser                                                                                      Invoice Number:                       6430-349702065
+        PO Box 20097, World Square                                                                            Invoice Date:                         02-MAR-20
+        Sydney NEW SOUTH  WALES  2000                                                                         Currency:                             AUD
+        Vendor Australian Business Number: 58629549506                                                         Payment Term:                         IMMEDIATE
+                                                                                                              Payment Method:                       AMZ  DEDUCT  FROM PAYMENT
+                                                                                                              Due Date:                             02-MAR-20
+
+
+            Line#     Line Description                                                                                 Units            Unit Price               Line Total
+                                                                                                                                                                    Y
+                1     MDF#  30805410: Reckitt Benckiser - 2.0% - Accrual (Damage                                                 1            462.78                    462.78
+                      Allowance External): 2.0 % of Cost Price based on Net Receipts:
+                      Period 2020-02-01 to 2020-02-29
+                      Total                                                                                                                                         Y 462.78
+                      GST                        462.78 @ 10.00%                                                                                     A           46.28
+                                                                                                                                                     A
+                      Amount  Due                                                                                                                                    509.06
+        Payment Instructions:                                                                                                           P
+                                                                                                                                        P
+        Payment method of AMZ DEDUCT  FROM  PAYMENT  requires no action or payment at this time. This tax invoice is for your records only. The total will
+        be deducted against our payment liability to your company.
+        In case of queries, please "Contact Us" via Vendor Central using the following link. T
+                                                                                                                    T
+        https://vendorcentral.amazon.com.au/hz/vendor/members/contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Amazon Commercial Services Pty Ltd
+                                                                      Level 37 Citigroup Tower 2 Park Street Sydney, NSW 2000

@@ -1,0 +1,59 @@
+
+                                                                                                                                                              TAX INVOICE
+
+
+
+
+
+
+
+        Attn: Accounts Payable                                                                                 Australian Business Number:           30 616 935 623
+        Reckitt Benckiser                                                                                      Invoice Number:                      6430-663645840
+        PO Box 20097, World Square                                                                            Invoice Date:                        05-DEC-22
+        Sydney NEW SOUTH  WALES  2000                                                                         Currency:                            AUD
+        Vendor Australian Business Number:                                                                     Payment Term:                        IMMEDIATE
+                                                                                                              Payment Method:                      AMZ  DEDUCT  FROM PAYMENT
+                                                                                                              Due Date:                            05-DEC-22
+
+
+            Line#     Line Description                                                                                Units            Unit Price               Line Total
+                1     MDF#  54317845: Reckitt Benckiser - 2.0% - Accrual (Damage                                                1          9,845.17                  9,845.17
+                      Allowance External): 2.0 % of Cost Price based on Net Receipts:                                                                                         Y
+                                                                                                                                                                           Y
+                      Period 2022-11-01 to 2022-11-30
+                2     MDF#  54317845: Reckitt Benckiser - 2.0% - Accrual (Damage                                                1             15.76                     15.76
+                      Allowance External): 2.0 % of Cost Price based on Net Receipts:
+                      Period 2022-11-01 to 2022-11-30
+                      Total                                                                                                                                   A  9,860.93
+                                                                                                                                                              A
+                      GST                       9,860.93 @ 10.00%                                                                                                    986.10
+
+                      Amount  Due                                                                                                                               10,847.03
+        Payment Instructions:                                                                                                                  P
+                                                                                                                                               P
+        Payment method of AMZ DEDUCT  FROM  PAYMENT  requires no action or payment at this time. This tax invoice is for your records only. The total will
+        be deducted against our payment liability to your company.
+        In case of queries, please "Contact Us" via Vendor Central using the following link.    T
+                                                                                                                            T
+        https://vendorcentral.amazon.com.au/hz/vendor/members/contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Amazon Commercial Services Pty Ltd
+                                                                      Level 37 Citigroup Tower 2 Park Street Sydney, NSW 2000

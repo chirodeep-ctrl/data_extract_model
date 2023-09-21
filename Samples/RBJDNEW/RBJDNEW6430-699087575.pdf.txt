@@ -1,0 +1,61 @@
+
+                                                                                                                                                                 Payment Request
+
+
+
+
+
+
+
+        Attn: Accounts Payable                                                                                 Australian Business Number:                 30 616 935 623
+        Reckitt Benckiser                                                                                      Payment Request Number:                    6430-699087575
+        PO Box 20097, World Square                                                                            Payment Request Date:                      05-MAR-23
+        Sydney NEW SOUTH  WALES  2000                                                                         Currency:                                  AUD
+        Vendor Australian Business Number:                                                                     Payment Term:                              IMMEDIATE
+                                                                                                              Payment Method:                            AMZ  DEDUCT  FROM PAYMENT
+                                                                                                              Due Date:                                  05-MAR-23
+
+
+            Line#       Line Description                                                                               Units               Unit Price                 Line Total
+                  1     MDF#  58109135: Reckitt Benckiser - S&S: 8722.76 Split Straight                                           1               23.10                        23.10
+                                                                                                                                                                                  Y
+                        Payment: Period 2023-02-01 to 2023-02-28
+                  2     MDF#  58109135: Reckitt Benckiser - S&S: 8722.76 Split Straight                                           1            8,693.71                   8,693.71
+                        Payment: Period 2023-02-01 to 2023-02-28
+                        Total                                                                                                                                          8,716.81 Y
+                        GST                      8,716.81 @ 10.00%                                                                                                  A    871.68
+                                                                                                                                                                   A
+                        Amount  Due                                                                                                                                    9,588.49
+        Payment Instructions:                                                                                                                       P
+                                                                                                                                                    P
+        Payment method of AMZ DEDUCT  FROM  PAYMENT  requires no action or payment at this time. This payment request is for your records only. The total
+        will be deducted against our payment liability to your company.
+
+
+        In case of queries, please "Contact Us" via Vendor Central using the following link.
+        https://vendorcentral.amazon.com.au/hz/vendor/members/contact          T
+                                                                                                                           T
+         Note: This is not a tax invoice. The PrO omotional Allowance payable by you to Amazon  is third party consideration for the sale of Products by Amazon to
+                                                          O
+                                                      its Customers. You should seek your own tax advice in relation to your tax implications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Amazon Commercial Services Pty Ltd
+                                                                      Level 37 Citigroup Tower 2 Park Street Sydney, NSW 2000

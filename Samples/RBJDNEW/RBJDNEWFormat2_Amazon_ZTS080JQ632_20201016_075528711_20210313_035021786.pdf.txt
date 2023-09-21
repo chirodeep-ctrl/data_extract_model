@@ -1,0 +1,46 @@
+
+                                                                                                         TAX   INVOICE
+
+         FROM                                                TO
+                                                                                                         Total Amount (tax included)     AUD    5,764.07
+         Amazon  Commercial Services Pty                     RB Hygiene Home  Australia
+         Ltd                                                 RB 680 George Street                       Invoice Number:  ZTS080JQ6-32
+         Level 37, 2 Park Street                             L47
+         Sydney, New South Wales 2000,                       Sydney, New South Wales, 2000,             Invoice Date: 02-10-2020
+         AU                                                  AU                                         Invoice Period: 01-09-2020 to 30-09-2020
+         ABN: 30616935623
+                                                                                                        PO  Number: Amazon Advertising
+                                                                                                        Invoice Currency: AUD
+                                                                                                        Payment  Type: Deduct from Payment
+
+         Campaign  Charges
+
+           Campaign                                            Campaign Type                  Destination    Clicks     Average CPC           Amount (ex. GST)
+           Mr Sheen Sponsored Products                         SPONSORED   PRODUCTS           amazon.au      1          0.09 AUD              0.09 AUD
+           Vanish Always On Search                             SPONSORED   PRODUCTS           amazon.au      290        2.17 AUD              630.25 AUD
+           Finish Sponsored Product Always On                   SPONSORED   PRODUCTS           amazon.au      960        2.14 AUD              2,051.89 AUD
+           Harpic Sponsored Product Always On                   SPONSORED   PRODUCTS           amazon.au      258        0.76 AUD              195.84 AUD
+           Vanish Gold Sponsored Brand Always
+                                                               SPONSORED   BRANDS             amazon.au      194        0.81 AUD              157.22 AUD
+           On
+           Air Wick Sponsored Product Always
+                                                               SPONSORED   PRODUCTS           amazon.au      937        0.88 AUD              826.34 AUD
+           On
+           Finish Brand Bulk Packs                              SPONSORED   BRANDS             amazon.au      432        1.05 AUD              452.17 AUD
+           Pine O Cleen_Sponsored
+                                                               SPONSORED   PRODUCTS           amazon.au      1008       0.92 AUD              924.59 AUD
+           Product_Always On
+           Steelo Sponsored Products                            SPONSORED   PRODUCTS           amazon.au      3          0.56 AUD              1.67 AUD
+
+                                                                                                                  Campaign  Charges total: 5,240.06 AUD
+
+
+                                                                                                          Total Amount Billed                    5,240.06 AUD
+                                                                                                          Total Adjustments                              0.00 AUD
+                                                                                                          GST  Rate                                        10.00%
+                                                                                                          GST  Amount                                524.01 AUD
+                                                                                                          Total Amount  (GST inclusive)          5,764.07 AUD
+
+
+                                                     PAYMENT  METHOD:   NO PAYMENT   IS DUE  FOR THIS DOCUMENT.
+                                                Your advertising costs will be deducted from your Amazon  retail proceeds.
