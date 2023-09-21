@@ -1,0 +1,238 @@
+
+                                                                                         Invoice
+      Invoice  date                07.02.23                          Remittance   address         Reckitt  Benckiser  (Espa#a)  S.L.
+      Invoice  number              2100169794                                                     Paseo  de Gracia  9 Barcelona
+      Payment  terms               30 EOM                                                         08007
+      Delivery  date               07.02.23                          Payee  code                  RED3X
+      Amazon  Billing  Address     AMAZON  EU SARL,  SUCURSAL  EN    Tracking  numbers            (none)
+                                   ESPANA                            VAT  Registration  Number.   ESB48001770
+                                   Calle  de Ramirez  de Prado,  5
+                                   Madrid,
+                                   28045
+                                   ES
+      Amazon  VAT  Registration#   ESW0184081H
+      Amazon  Warehouse            XMA3
+      Amazon  Warehouse  Address   CEVA XMA3-XESF
+                                   C/Plata  s/n (access  by C/
+                                   Paladio).  P.I.  Dehesa de  la
+                                   Plata  1
+                                   45340  Ontigola
+                                   ES
+
+
+      Invoice  details
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       5IRZISAB      B002C6LMIY     3059940006839      349607            Destop Express - Desatascador para            3.69   0.0 %    3.69    184    ES 21  142.42 820.65 EUR
+                                                                         Tuberías Superconcentrado con sosa             EUR             EUR                     EUR
+                                                                         cáustica, formato gel - 1L
+       5IRZISAB      B003U54C9M     4002448046462      3048418           Finish Ambientador para Lavavajillas con      3.36   0.0 %    3.36     90    ES 21   63.40 365.35 EUR
+                                                                         tecnología antiolor, aroma fresco, hasta       EUR             EUR                     EUR
+                                                                         60 lavados
+       5IRZISAB      B00UCB9DBE     5410036145227      3003381           Vanish Quitamanchas para alfombras,           5.56   0.0 %    5.56    366    ES 21  426.95   2,460.08
+                                                                         moquetas, tapicerías y grandes                 EUR             EUR                     EUR        EUR
+                                                                         superficies, formato espuma
+       5IRZISAB      B00XACUA14     4002448050759      8146851           Vanish Oxi Action - Quitamanchas y           11.75   0.0 %   11.75    196    ES 21  483.54   2,786.15
+                                                                         Blanqueador para Ropa Blanca, en Polvo,        EUR             EUR                     EUR        EUR
+                                                                         Sin Lejía, 2.4 kg
+       5IRZISAB      B00XAD9YRO     8410104017026      3020580           Air Wick Eléctrico - Recambio de              4.47   0.0 %    4.47     54    ES 21   50.73 292.33 EUR
+                                                                         Ambientador Automático Eléctrico, Esencia      EUR             EUR                     EUR
+                                                                         para Casa con Aroma a Ropa Limpia, Negro,
+                                                                         Flor, 19 Mililitros
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       5IRZISAB      B00XAE564S     8410104155032      3017396           Air Wick Ambientador Freshmatic Recambio      7.65   0.0 %    7.65     42    ES 21   67.46 388.72 EUR
+                                                                         Duplo Lirio de Luna y Satén de Seda - 500      EUR             EUR                     EUR
+                                                                         ml
+       5IRZISAB      B00XAE7YXO     8410104156664      8410104156664     Air Wick Freshmatic - Recambio de             3.53   0.0 %    3.53     72    ES 21   53.31 307.18 EUR
+                                                                         Ambientador Spray Automático, Esencia          EUR             EUR                     EUR
+                                                                         para Casa con Aroma a Oasis Turquesa, 250
+                                                                         Mililitros
+       5IRZISAB      B00XAEBVEC     8410104161231      8087729           Elena Detergente para lavadora, frescor      18.05   0.0 %   18.05     21    ES 21   79.60 458.65 EUR
+                                                                         colonia, adecuado para ropa blanca y           EUR             EUR                     EUR
+                                                                         de color, formato profesional gel - 148
+                                                                         dosis
+       5IRZISAB      B00XAEIG2M     8410104253967      3008686           Air Wick Freshmatic - Recambios de            6.13   0.0 %    6.13     78    ES 21  100.34 578.17 EUR
+                                                                         Ambientador Spray Automático, Esencia          EUR             EUR                     EUR
+                                                                         para Casa con Aroma a Oasis Turquesa -
+                                                                         Pack de 2
+       5IRZISAB      B00XAEJD9W     8410104306526      8.4101E+12        Sidol Vitrocerámicas Crema 450 ml,            6.61   0.0 %    6.61     96    ES 21  133.27 767.93 EUR
+                                                                         Estándar (6330)                                EUR             EUR                     EUR
+       5IRZISAB      B00XAENBWC     8410104660031      8410104660031     Air Wick Ambientador Aerosol, Flor, 250ml     3.55   0.0 %    3.55    102    ES 21   76.08 438.38 EUR
+                                                                                                                        EUR             EUR                     EUR
+       5IRZISAB      B00XAENJ5Q     8410104702618      166822            Finish Limpiamáquinas Líquido para            7.56   0.0 %    7.56    180    ES 21  285.73   1,646.35
+                                                                         Lavavajillas, 2 x 250ml                        EUR             EUR                     EUR        EUR
+       5IRZISAB      B01M4NGGNZ     8410104392888      3027420           AIRWICK Life escents ambientador              6.13   0.0 %    6.13     78    ES 21  100.34 578.17 EUR
+                                                                         eléctrico oasis turquesa aparato +             EUR             EUR                     EUR
+                                                                         recambio
+       5IRZISAB      B01M5FMHWY     8410104392864      3027422           Air Wick Eléctrico Aparato y recambio de      4.82   0.0 %    4.82    126    ES 21  127.53 734.85 EUR
+                                                                         ambientador automático eléctrico, esencia      EUR             EUR                     EUR
+                                                                         para casa con aroma a White Bouquet - 1
+                                                                         Aparato y 1 Recambio
+       5IRZISAB      B01MFC1O4Z     8410104392871      3027417           Air Wick Eléctrico - Recambios de             4.82   0.0 %    4.82     30    ES 21   30.36 174.96 EUR
+                                                                         ambientador automático eléctrico, esencia      EUR             EUR                     EUR
+                                                                         para casa con aroma a Delicias de Verano
+                                                                         - Aparato y recambio
+       5IRZISAB      B01MQWCYB4     8410104882686      8410104882686     Air Wick Ambientador Eléctrico Fragancia      6.78   0.0 %    6.78     40    ES 21   56.96 328.20 EUR
+                                                                         Nenuco, 2 Recambios                            EUR             EUR                     EUR
+       5IRZISAB      B01MSZF5OS     8410104882761      3039749           Air Wick Eléctrico - Recambios de             6.77   0.0 %    6.77    145    ES 21  206.17   1,187.97
+                                                                         ambientador automático eléctrico, esencia      EUR             EUR                     EUR        EUR
+                                                                         para casa con aroma a Oasis Turquesa - 2
+                                                                         unidades
+       5IRZISAB      B01MT3R0OR     8410104913670      3040037           Air Wick Freshmatic Aparato y Recambio        6.54   0.0 %    6.54    312    ES 21  428.50   2,468.98
+                                                                         de Ambientador Spray Automático, Aroma a       EUR             EUR                     EUR        EUR
+                                                                         Nenuco
+       5IRZISAB      B01MXVBB2L     8410104017231      3020607           Air Wick Eléctrico - Recambios de            26.84   0.0 %   26.84      6    ES 21   33.82 194.88 EUR
+                                                                         ambientador automático eléctrico, esencia      EUR             EUR                     EUR
+                                                                         para casa con aroma a Lirio de Luna y
+                                                                         Satén de Seda, pack de 6
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       5IRZISAB      B01MZ4GOIF     8410104913380      8410104882891     Air Wick Freshmatic Aparato y Recambio        6.54   0.0 %    6.54    624    ES 21  857.00   4,937.96
+                                                                         de Ambientador Spray Automático, Esencia       EUR             EUR                     EUR        EUR
+                                                                         para Casa con Aroma a Oasis Turquesa,
+                                                                         Colección Viaja des de Casa - 1 Aparato +
+                                                                         1 Recambio, Negro
+       5IRZISAB      B01N29OD3T     8410104880330      3037009           Colon Vanish Advanced Detergente para         6.73   0.0 %    6.73     30    ES 21   42.39 244.29 EUR
+                                                                         lavadora con quitamanchas, adecuado para       EUR             EUR                     EUR
+                                                                         ropa blanca y de color, Formato cápsulas
+                                                                         - 22 dosis
+       5IRZISAB      B01N4EBDST     8410104882693      8410104882693     Air Wick Eléctrico Recâmbios de               7.68   0.0 %    7.68     10    ES 21   16.13  92.94 EUR
+                                                                         Ambientador Automático Eléctrico, Esencia      EUR             EUR                     EUR
+                                                                         para Casa con Aroma a Ropa Limpia Flor -
+                                                                         2 Unidades
+       5IRZISAB      B01NCQSTQM     8410104882747      3039598           AIRWICK ambientador pure aire fresco          4.72   0.0 %    4.72     42    ES 21   41.62 239.81 EUR
+                                                                         recambio spray 250 ml                          EUR             EUR                     EUR
+       5IRZISAB      B074JGBR2P     8410104888169      3050113           Air Wick Recambio de Ambientador Difusor,     4.54   0.0 %    4.54     60    ES 21   57.19 329.53 EUR
+                                                                         Lavanda Relajante, 20ml                        EUR             EUR                     EUR
+       5IRZISAB      B0755GY5BK     8410104888336      3051074           Cillit Bang Platinum Pro-Shield Limpiador     2.47   0.0 %    2.47    228    ES 21  118.21 681.14 EUR
+                                                                         WC, aroma Explosión Marina - 700 ml            EUR             EUR                     EUR
+       5IRZISAB      B07656P8GP     8410104880347      3034723           Colon Vanish Advanced Detergente para         9.04   0.0 %    9.04     32    ES 21   60.72 349.87 EUR
+                                                                         lavadora con quitamanchas, adecuado para       EUR             EUR                     EUR
+                                                                         ropa blanca y de color, Formato cápsulas
+                                                                         - 32 lavados
+       5IRZISAB      B0784MSX5W     8410104889340      3053403           Air Wick - Varitas perfumadas, Flor, 1        3.81   0.0 %    3.81     25    ES 21   20.00 115.25 EUR
+                                                                         unidad                                         EUR             EUR                     EUR
+       5IRZISAB      B07J5QCR8D     8410104892692      3075461           Air Wick Eléctrico - Recambios de            19.66   0.0 %   19.66    108    ES 21  445.82   2,568.77
+                                                                         ambientador automático eléctrico, esencia      EUR             EUR                     EUR        EUR
+                                                                         para casa con aroma a Lirio de Luna y
+                                                                         Satén de Seda - pack de 6, 114 mililitro,
+                                                                         6
+       5IRZISAB      B07J677FBR     8410104892685      3075460           Air Wick Eléctrico - Recambios de            19.66   0.0 %   19.66     96    ES 21  396.28   2,283.35
+                                                                         ambientador, esencia para casa con aroma       EUR             EUR                     EUR        EUR
+                                                                         a nenuco, pack de 6 uinidades
+       5IRZISAB      B07N1TD7LM     8410104892661      3074973           Air Wick Freshmatic Recambios de              9.28   0.0 %    9.28    948    ES 211,848.05  10,648.34
+                                                                         Ambientador Spray Automático, Fragrancia       EUR             EUR                     EUR        EUR
+                                                                         Flor, Pack de 3
+       5IRZISAB      B07N1WVPJY     8410104892593      3074524           Air Wick Ambientador Eléctrico Fragancia      9.47   0.0 %    9.47    130    ES 21  258.50   1,489.47
+                                                                         Nenuco, 3 Recambios, 1 unidad                  EUR             EUR                     EUR        EUR
+       5IRZISAB      B07N1YHTN8     8410104892654      3074972           Air Wick Freshmatic Recambios de              9.28   0.0 %    9.28    160    ES 21  311.90   1,797.18
+                                                                         Ambientador Spray Automático, Esencia          EUR             EUR                     EUR        EUR
+                                                                         para Casa con Aroma a White Bouquet -
+                                                                         Pack de 3
+       5IRZISAB      B07N1YQ72D     8410104892609      3074734           Air Wick Eléctrico Recambio de                9.47   0.0 %    9.47    475    ES 21  944.53   5,442.30
+                                                                         Ambientador Eléctrico, Esencia para Casa       EUR             EUR                     EUR        EUR
+                                                                         con Aroma a Flor - 3 unidades
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       5IRZISAB      B07QBQH8GD     8410104901530      3102366           Finish Limpiamáquinas - Limpia               14.02   0.0 %   14.02    696    ES 212,049.89  11,811.29
+                                                                         lavavajillas contra el mal olor, la cal        EUR             EUR                     EUR        EUR
+                                                                         y la grasa del lavaplatos, limpiador
+                                                                         lavavajillas - 4 Unidades
+       5IRZISAB      B07T7XDVXL     8410104893392      3085860           Vanish Oxi Action - Quitamanchas para        10.64   0.0 %   10.64     84    ES 21  187.65   1,081.24
+                                                                         Ropa Blanca y de Color, en Gel, Sin Lejía      EUR             EUR                     EUR        EUR
+                                                                         - 1800 ml
+       5IRZISAB      B07T91L8CM     8410104901622      3102462           Vanish Oxi Action - Quitamanchas y           18.00   0.0 %   18.00    204    ES 21  771.29   4,444.10
+                                                                         Blanqueador para Ropa Blanca, lavadora o       EUR             EUR                     EUR        EUR
+                                                                         remojo, en Polvo, Sin Lejía - Pack de 2 x
+                                                                         900 g
+       5IRZISAB      B07V9NVDNJ     8410104893354      3085856           Vanish Oxi Action - Quitamanchas para        10.64   0.0 %   10.64      6    ES 21   13.40  77.23 EUR
+                                                                         Ropa Blanca y de Color, en Polvo, Sin          EUR             EUR                     EUR
+                                                                         Lejía - 900 g
+       5IRZISAB      B07Y36F5YF     8410104901615      3102401           Vanish Oxi Action - Quitamanchas y           18.00   0.0 %   18.00     48    ES 21  181.48   1,045.67
+                                                                         Blanqueador para Ropa Blanca, en Polvo,        EUR             EUR                     EUR        EUR
+                                                                         Sin Lejía - 900 g (Paquete de 2)
+       5IRZISAB      B07ZW6LS63     3059940006433      3059940006433     Destop Turbo Gel Desatascador para            4.81   0.0 %    4.81    144    ES 21  145.57 838.79 EUR
+                                                                         Tuberías Superconcentrado - Hasta 2 Usos       EUR             EUR                     EUR
+       5IRZISAB      B082BQ74F6     8410104895334      3131156           Destop Turbo - Desatascador para Tuberías    22.04   0.0 %   22.04     75    ES 21  347.17   2,000.40
+                                                                         Superconcentrado, formato gel - Pack de 4      EUR             EUR                     EUR        EUR
+                                                                         Unidades, Hasta 8 Dosis
+       5IRZISAB      B082BQCMR9     8410104895358      3131174           Cillit Bang - Spray Limpiador Suciedad y     20.30   0.0 %   20.30     79    ES 21  336.74   1,940.28
+                                                                         Manchas de Humedad, para Baños y juntas        EUR             EUR                     EUR        EUR
+                                                                         negras + Spray Quitagrasas, para cocinas
+                                                                         - Pack 6 x 750 ml
+       5IRZISAB      B084LGVFM9     8410104895679      3137447           2 Finish Limpiamáquinas para                 14.37   0.0 %   14.37    111    ES 21  335.01   1,930.30
+                                                                         lavavajillas, 2 unidades + Finish              EUR             EUR                     EUR        EUR
+                                                                         Ambientador para lavavajillas, 2
+                                                                         unidades, aroma limón
+       5IRZISAB      B08C89QKCH     8410104895563      3133977           Vanish Oxi Advance Quitamanchas para la       5.97   0.0 %    5.97     30    ES 21   37.62 216.78 EUR
+                                                                         Ropa, 400g                                     EUR             EUR                     EUR
+       5IRZISAB      B08C8CHY1M     8410104895495      3133957           Vanish Oxi Advance - Quitamanchas y          10.63   0.0 %   10.63     90    ES 21  200.85   1,157.28
+                                                                         blanqueador para ropa blanca, en gel, sin      EUR             EUR                     EUR        EUR
+                                                                         lejía - 1600 ml
+       5IRZISAB      B08C8DF6PP     8410104895570      3133976           Vanish Oxi Advance - Quitamanchas Y           5.97   0.0 %    5.97     36    ES 21   45.14 260.14 EUR
+                                                                         Blanqueador multiacción Para Ropa Blanca,      EUR             EUR                     EUR
+                                                                         En Polvo, Sin Lejía 400 g
+       5IRZISAB      B08KR1P8ZS     8410104898687      3169964           Lysol - Desinfectante textil para la         18.19   0.0 %   18.19     72    ES 21  275.03   1,584.71
+                                                                         ropa, elimina virus, hongos, bacterias y       EUR             EUR                     EUR        EUR
+                                                                         malos olores, sin lejía - pack de 4 x 1.2
+                                                                         L - Total 4.8 L
+       5IRZISAB      B08YSLRT5B     8410104899134      8410104899134     Air Wick Eléctrico - Recambios de            20.83   0.0 %   20.83     84    ES 21  367.49   2,117.46
+                                                                         ambientador automático eléctrico, esencia      EUR             EUR                     EUR        EUR
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+                                                                         para casa con aroma a Flor Ropa Limpia -
+                                                                         83 g - Pack de 6
+       5IRZISAB      B08YSVN2GS     8410104899097      8410104899097     Air Wick Freshmatic - Recambios de           22.67   0.0 %   22.67     54    ES 21  257.05   1,481.12
+                                                                         ambientador spray automático, esencia          EUR             EUR                     EUR        EUR
+                                                                         para casa con aroma a Flor Ropa Limpia -
+                                                                         238 g - Pack de 6
+       5IRZISAB      B09KNJ8FSW     8410104899974      3214891           Air Wick Freshmatic - Aparato y Recambios    20.83   0.0 %   20.83     57    ES 21  249.34   1,436.71
+                                                                         de ambientador spray automático, esencia       EUR             EUR                     EUR        EUR
+                                                                         para casa con aroma a Lirio de Luna y
+                                                                         Satén de Seda, 1 aparato y 4 recambios
+       5IRZISAB      B09NC64CTF     3665468301112      3665468301112     Air Wick Essential Mist Aparato y            13.82   0.0 %   13.82    150    ES 21  435.42   2,508.87
+                                                                         Recambios de Ambientador Difusor de            EUR             EUR                     EUR        EUR
+                                                                         Aceites Esenciales para Casa con Aroma a
+                                                                         Lavanda y Camomila, Pack de 1 Aparato y 2
+                                                                         Recambios
+       5IRZISAB      B09NC6LDP4     3665468301846      3665468301846     Air Wick Essential Mist Recambios de         13.94   0.0 %   13.94    232    ES 21  679.25   3,913.79
+                                                                         Ambientador Difusor de Aceites Esenciales      EUR             EUR                     EUR        EUR
+                                                                         para Casa con Aroma a Lavanda y Camomila,
+                                                                         Pack de 3 Recambios
+       5IRZISAB      B09NC6X4S9     3665468301129      3665468301129     Air Wick Essential Mist Aparato y            13.82   0.0 %   13.82    186    ES 21  539.92   3,111.00
+                                                                         Recambios de Ambientador Difusor de            EUR             EUR                     EUR        EUR
+                                                                         Aceites Esenciales para Casa con aroma a
+                                                                         Rosa, Pack de 1 Aparato y 2 Recambios
+       5IRZISAB      B09TPVM6K2     8410104899356                        Finish Limpiamáquinas - Limpieza              9.70   0.0 %    9.70    100    ES 21  203.70   1,173.70
+                                                                         higiénica para el lavavajillas contra el       EUR             EUR                     EUR        EUR
+                                                                         mal olor, la cal y la grasa, aroma limón
+                                                                         - 3 Unidades
+       5IRZISAB      B0B25LXHZ4     5601217134325      3149673           Vanish Oxi Advance Quitamanchas              15.66   0.0 %   15.66     96    ES 21  315.70   1,819.06
+                                                                         Multibeneficio para la ropa, Elimina           EUR             EUR                     EUR        EUR
+                                                                         Olores y Evita Desteñidos, en Polvo, sin
+                                                                         Lejía, 1,2kg
+       5IRZISAB      B08YSRNYRQ     8410104899073      8410104899073     Air Wick Eléctrico - Recambios de            20.83   0.0 %   20.83     42    ES 21  183.75   1,058.78
+                                                                         ambientador eléctrico, esencia para casa       EUR             EUR                     EUR        EUR
+                                                                         con aroma a White Bouquet - pack de 6
+
+
+      Miscellaneous   charges
+       Description                                                         Credit amount       Debit amount           Tax rate         Tax amount       Total amount
+                                                                                  (none)
+
+
+      Totals
+       Items                                                                                 78,683.54  EUR
+
+      Miscellaneous charges                                                             0.00 EUR
+      ES 0                                                                              0.00 EUR
+      ES 4                                                                              0.00 EUR
+      ES 10                                                                             0.00 EUR
+      ES 21                                                                        16,523.50 EUR
+      Total tax amount                                                             16,523.50 EUR
+      Invoice amount                                                               95,206.85 EUR

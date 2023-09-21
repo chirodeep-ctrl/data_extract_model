@@ -1,0 +1,238 @@
+
+                                                                                         Invoice
+      Invoice  date                08.02.23                          Remittance   address         Reckitt  Benckiser  (Espa#a)  S.L.
+      Invoice  number              2100169885                                                     Paseo  de Gracia  9 Barcelona
+      Payment  terms               30 EOM                                                         08007
+      Delivery  date               08.02.23                          Payee  code                  RED3X
+      Amazon  Billing  Address     AMAZON  EU SARL,  SUCURSAL  EN    Tracking  numbers            (none)
+                                   ESPANA                            VAT  Registration  Number.   ESB48001770
+                                   Calle  de Ramirez  de Prado,  5
+                                   Madrid,
+                                   28045
+                                   ES
+      Amazon  VAT  Registration#   ESW0184081H
+      Amazon  Warehouse            MAD7
+      Amazon  Warehouse  Address   Carretera  antigua  Madrid-
+                                   Toledo  38D
+                                   45200  Illescas
+                                   ES
+
+
+      Invoice  details
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       56AVVW1D      B002C6QTXM     4002448006381      3002410           Calgon Powerball Pastillas - Antical para    16.62   0.0 %   16.62     45    ES 21  157.07 905.02 EUR
+                                                                         la Lavadora, Elimina Olores y Suciedad -       EUR             EUR                     EUR
+                                                                         45
+       56AVVW1D      B002HH6ZNU     8410104660215      3010808           Finish Classic - Detergente para el          11.01   0.0 %   11.01     40    ES 21   92.48 532.84 EUR
+                                                                         Lavavajillas, en Polvo, 2.5 kg                 EUR             EUR                     EUR
+       56AVVW1D      B002MWW39U     8410104145354      3048324           Flor Suavizante Concentrado para la Ropa,     1.90   0.0 %    1.90     80    ES 21   31.87 183.63 EUR
+                                                                         Fragancia Nenuco, 59 Lavados                   EUR             EUR                     EUR
+       56AVVW1D      B006G6Y2YC     8410104069049      690400100         Finish Sal para Lavavajillas, Función         6.20   0.0 %    6.20    344    ES 21  448.25   2,582.77
+                                                                         Antical, Mayor Rendimiento del                 EUR             EUR                     EUR        EUR
+                                                                         Lavaplatos, 4 kg
+       56AVVW1D      B00FPLQTPO     8410104069117      E0000045          Finish Sal para Lavavajillas, Función         3.52   0.0 %    3.52    432    ES 21  319.79   1,842.59
+                                                                         Antical, 2kg                                   EUR             EUR                     EUR        EUR
+       56AVVW1D      B00KEEJ9JK     8410104911362      8072665           Flor Original, Suavizante Concentrado,        2.99   0.0 %    2.99    248    ES 21  155.72 897.24 EUR
+                                                                         para la Ropa, 89 lavados, 1602 mililitro,      EUR             EUR                     EUR
+                                                                         1
+       56AVVW1D      B00PDRFTFQ     8410104252502      24                Finish Classic - Pastillas para el            8.69   0.0 %    8.69     18    ES 21   32.84 189.21 EUR
+                                                                         Lavavajillas, limpieza clásica, 57             EUR             EUR                     EUR
+                                                                         pastillas
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       56AVVW1D      B00UCC2O7I     8410104306014      8410104306014     Finish Powerball Power All in 1 Pastillas     7.25   0.0 %    7.25     20    ES 21   30.47 175.53 EUR
+                                                                         para el Lavavajillas, 32 Pastillas             EUR             EUR                     EUR
+       56AVVW1D      B00XA41SF4     8410104013226      386075            Flor - Suavizante para la ropa                9.98   0.0 %    9.98     22    ES 21   46.11 265.69 EUR
+                                                                         profesional, aroma nenuco - 220 dosis          EUR             EUR                     EUR
+       56AVVW1D      B00XA6HBEY     8410104123147      3040389           Finish Powerball Quantum Max Pastillas        7.62   0.0 %    7.62     28    ES 21   44.81 258.19 EUR
+                                                                         para Lavavajillas, 27 Unidades                 EUR             EUR                     EUR
+       56AVVW1D      B00XADCT4E     8410104032463      8133809           Colon Nenuco - Detergente para Lavadora,      6.75   0.0 %    6.75    208    ES 21  294.67   1,697.84
+                                                                         adecuado para Ropa Blanca y de Color,          EUR             EUR                     EUR        EUR
+                                                                         Formato Gel - 60 dosis
+       56AVVW1D      B00XADKSI8     8410104880743      3035816           Finish Abrillantador para lavavajillas       27.65   0.0 %   27.65     18    ES 21  104.53 602.30 EUR
+                                                                         industriales, uso Professional - 5 L,          EUR             EUR                     EUR
+                                                                         5000 mililitro, 1
+       56AVVW1D      B00XAEBRPK     8410104160449      3009638           Colon Polvo Activo - Detergente para         15.15   0.0 %   15.15    205    ES 21  652.17   3,757.71
+                                                                         lavadora, adecuado para ropa blanca y de       EUR             EUR                     EUR        EUR
+                                                                         color, formato polvo - 135 dosis, 7.037
+                                                                         kg
+       56AVVW1D      B00XAELU70     8410104447410      8145654           Air Wick - Velas aromáticas perfumadas,       3.50   0.0 %    3.50     42    ES 21   30.86 177.81 EUR
+                                                                         esencia para casa con aroma Antitabaco -       EUR             EUR                     EUR
+                                                                         pack de 2
+       56AVVW1D      B00XAEMEZC     8410104489090      3009424           Finish Abrillantador Lavavajillas,            6.49   0.0 %    6.49     36    ES 21   49.04 282.57 EUR
+                                                                         vajilla seca, brillante y sin marcas -         EUR             EUR                     EUR
+                                                                         200 lavados
+       56AVVW1D      B00XAEMHV8     8410104489465      3011900           Finish Abrillantador Lavavajillas,            4.81   0.0 %    4.81     84    ES 21   84.85 488.89 EUR
+                                                                         vajilla seca, brillante y sin marcas,          EUR             EUR                     EUR
+                                                                         aroma limón - 500ml - 125 lavados
+       56AVVW1D      B00XAEP2MO     8410104802202      197574            Vitroclen Limpiador de Vitrocerámica en       6.70   0.0 %    6.70     36    ES 21   50.67 291.94 EUR
+                                                                         crema, acción protectora y desengrasante       EUR             EUR                     EUR
+                                                                         - 450 ml
+       56AVVW1D      B00XAEP51W     8410104802271      3046906           Vitroclen Limpiador de Vitrocerámica en       5.75   0.0 %    5.75    120    ES 21  144.98 835.34 EUR
+                                                                         spray, acción protectora y desengrasante       EUR             EUR                     EUR
+                                                                         - 450 ml
+       56AVVW1D      B01DUX3O0Q     5601217126399      3018678           Woolite - Detergente Líquido para Ropa        6.08   0.0 %    6.08    114    ES 21  145.65 839.22 EUR
+                                                                         Oscura - 1.65 l                                EUR             EUR                     EUR
+       56AVVW1D      B01JYYW2LW     8410104124632      3027894           Finish All in 1 Max Power Gel Brillo          7.45   0.0 %    7.45      5    ES 21    7.83  45.10 EUR
+                                                                         & Protección Detergente Gel para el            EUR             EUR                     EUR
+                                                                         Lavavajilla, 50 dosis
+       56AVVW1D      B01K7RHMLK     3141360052005      3011895           Finish Abrillantador Lavavajillas,            4.32   0.0 %    4.32     60    ES 21   54.49 313.93 EUR
+                                                                         vajilla seca, brillante y sin marcas -         EUR             EUR                     EUR
+                                                                         500ml - 125 lavados
+       56AVVW1D      B01KJQZ1D0     3141360050001      8083252           Calgon Antical Gel 3 en 1, Gel                7.46   0.0 %    7.46     12    ES 21   18.81 108.37 EUR
+                                                                         antiescalado, 750 ml                           EUR             EUR                     EUR
+       56AVVW1D      B00KEEJ9JK     8410104911362      8072665           Flor Original, Suavizante Concentrado,        2.99   0.0 %    2.99     24    ES 21   15.07  86.83 EUR
+                                                                         para la Ropa, 89 lavados, 1602 mililitro,      EUR             EUR                     EUR
+                                                                         1
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       56AVVW1D      B01MU5B01J     8410104124762      3030858           Finish All in 1 Max Power Gel                 9.33   0.0 %    9.33      3    ES 21    5.88  33.88 EUR
+                                                                         Brillo&Protección, Detergente Gel para         EUR             EUR                     EUR
+                                                                         el Lavavajilla, 2 unidades - Total 70
+                                                                         lavados
+       56AVVW1D      B01N4IOCHD     8410104880750      3035817           Finish All in 1 Max Power Gel Brillo         13.70   0.0 %   13.70     90    ES 21  258.84   1,491.39
+                                                                         & Protección Detergente Gel para el            EUR             EUR                     EUR        EUR
+                                                                         Lavavajilla, 2 unidades - 100 lavados
+       56AVVW1D      B01NH0G3CN     8410104882549      3037652           Vitroclen Limón Crema 450 ml                  7.28   0.0 %    7.28     24    ES 21   36.71 211.50 EUR
+                                                                                                                        EUR             EUR                     EUR
+       56AVVW1D      B074HG31VL     8410104910945      8410104033071     Colon Polvo Activo - Detergente para         18.02   0.0 %   18.02      7    ES 21   26.49 152.63 EUR
+                                                                         lavadora, adecuado para ropa blanca y de       EUR             EUR                     EUR
+                                                                         color, formato polvo - 95 dosis, 5.890 kg
+       56AVVW1D      B074JF32NW     8410104888206      3050120           Air Wick Essential Mist - Aparato y          11.51   0.0 %   11.51     56    ES 21  135.36 779.92 EUR
+                                                                         recambio de ambientador difusor, esencia       EUR             EUR                     EUR
+                                                                         para casa con aroma a Explosión Cítrica,
+                                                                         pack de 1 aparato y 1 recambio
+       56AVVW1D      B0755GMFKT     8410104888428      3051067           Vitroclen Induclen Spray Inducción - 450      5.57   0.0 %    5.57    120    ES 21  140.34 808.62 EUR
+                                                                         ml                                             EUR             EUR                     EUR
+       56AVVW1D      B078WTMJ23     8410104890483      3060359           Finish All in 1 Max Power Gel Frescor         8.41   0.0 %    8.41     10    ES 21   17.67 101.79 EUR
+                                                                         Antiolor, Detergente Gel para el               EUR             EUR                     EUR
+                                                                         Lavavajillas, 50 dosis
+       56AVVW1D      B078WTSHCF     5601217130877      3058047           Finish Powerball Power All in 1 Pastillas    18.77   0.0 %   18.77    138    ES 21  543.93   3,134.05
+                                                                         para el lavavajillas todo en 1 - Pack          EUR             EUR                     EUR        EUR
+                                                                         ahorro 110 pastillas
+       56AVVW1D      B07BBZW65W     8410104890339      3061048           Finish Powerball Power All in 1 Pastillas    14.85   0.0 %   14.85      4    ES 21   12.48  71.89 EUR
+                                                                         para el lavavajillas, 80 pastillas             EUR             EUR                     EUR
+       56AVVW1D      B07BHZH8HF     5601217126382      3018677           Woolite Detergente en Gel para Ropa de        6.08   0.0 %    6.08     18    ES 21   23.00 132.49 EUR
+                                                                         Color - 30 Dosis de 55 ml, Total: 1650 ml      EUR             EUR                     EUR
+       56AVVW1D      B07DDS8SNC     8410104889111                        Finish Limpiamáquinas lavavajillas en         4.94   0.0 %    4.94      8    ES 21    8.30  47.80 EUR
+                                                                         pastillas, elimina cal y grasa durante el      EUR             EUR                     EUR
+                                                                         lavado, 3 paquetes x3
+       56AVVW1D      B07G5GT4GZ     8410104891015      3064049           Finish All in 1 Max Power Gel Limón          13.70   0.0 %   13.70     20    ES 21   57.54 331.54 EUR
+                                                                         Desengrasante Detergente Gel para el           EUR             EUR                     EUR
+                                                                         Lavavajillas, 2 unidades - 100 lavados
+       56AVVW1D      B07HK9HQX6     5601217130631                                                                      2.92   0.0 %    2.92    200    ES 21  122.43 705.43 EUR
+                                                                                                                        EUR             EUR                     EUR
+       56AVVW1D      B07LGYKHKX     8410104893408      3085402           Colon Total Power Gel Caps Higiene -          9.73   0.0 %    9.73     56    ES 21  114.43 659.31 EUR
+                                                                         Detergente para Lavadora con activos           EUR             EUR                     EUR
+                                                                         higiénicos, Formato Cápsulas - 32
+                                                                         unidades
+       56AVVW1D      B07N1YJGJQ     8410104892500      3073256           Air Wick Eléctrico - Recambios de             9.47   0.0 %    9.47     65    ES 21  129.25 744.73 EUR
+                                                                         ambientador automático eléctrico, esencia      EUR             EUR                     EUR
+                                                                         para casa con aroma a White Bouquet - 3
+                                                                         unidades
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+       56AVVW1D      B07NDSM8GH     8410104006082      0207866           Vitroclen Crema Limpiadora Específico        12.81   0.0 %   12.81     12    ES 21   32.29 186.02 EUR
+                                                                         para Placas de Vitrocerámica Regular -         EUR             EUR                     EUR
+                                                                         900 ml
+       56AVVW1D      B07VFDH9NQ     8410104894634      3113401           Flor Suavizante ropa concentrado Nenuco,     23.11   0.0 %   23.11      6    ES 21   29.12 167.77 EUR
+                                                                         590 dosis (Pack de 10), Hipoalergénico         EUR             EUR                     EUR
+       56AVVW1D      B07YVLDQ8V     8410104894887      3116754           Finish 0% Abrillantador para lavavajillas     4.34   0.0 %    4.34     60    ES 21   54.62 314.72 EUR
+                                                                         - formato 400 ml - 100 lavados                 EUR             EUR                     EUR
+       56AVVW1D      B07YVLW8C6     8410104894726      3115015           Botanical Origin Suavizante para ropa         3.37   0.0 %    3.37    138    ES 21   97.75 563.23 EUR
+                                                                         ecológico apto para pieles sensibles,          EUR             EUR                     EUR
+                                                                         Fragancia Flor de Naranjo y Hojas
+                                                                         Cítricas - 45 lavados
+       56AVVW1D      B07YVLYGKS     8410104894740                        Botanical Origin Limpiador multiusos          2.98   0.0 %    2.98     36    ES 21   22.52 129.73 EUR
+                                                                         ecológico, Fragancia Flor de Naranjo y         EUR             EUR                     EUR
+                                                                         Hojas Cítricas - 500 ml
+       56AVVW1D      B07YVNBCR8     8410104894757                        Botanical Origin Limpiador multiusos          2.98   0.0 %    2.98     48    ES 21   30.02 172.97 EUR
+                                                                         ecológico, Fragancia Jazmín Fresco y           EUR             EUR                     EUR
+                                                                         Lavanda Silvestre - 500 ml
+       56AVVW1D      B082BQSRYL     8410104895280      3131027           Vitroclen Limpiador de Vitrocerámica en      20.89   0.0 %   20.89     87    ES 21  381.64   2,198.98
+                                                                         crema, acción protectora y desengrasante       EUR             EUR                     EUR        EUR
+                                                                         - Pack de 4 x 450 ml
+       56AVVW1D      B0849Z8V3Z     8410104901011      3092627           Finish Powerball Ultimate All in 1            7.46   0.0 %    7.46     21    ES 21   32.92 189.67 EUR
+                                                                         Pastillas para el Lavavajillas, Eficaz         EUR             EUR                     EUR
+                                                                         contra Manchas Resecas, Pack 23 Pastillas
+       56AVVW1D      B089R4YZPX     8410104895815      3141728           Botanica by Air Wick Varitas Perfumadas       7.26   0.0 %    7.26      5    ES 21    7.63  43.93 EUR
+                                                                         - Ambientador Mikados, Esencia Para Casa       EUR             EUR                     EUR
+                                                                         con Aroma a Vetiver Caribeño Y Sándalo -
+                                                                         100 ml
+       56AVVW1D      B089R725G2     8410104895822      3141729           Botanica by Air Wick Varitas Perfumadas       7.26   0.0 %    7.26     65    ES 21   99.10 571.00 EUR
+                                                                         - Ambientador Mikados, Esencia Para            EUR             EUR                     EUR
+                                                                         Casa con Aroma a Vainilla y Magnolia del
+                                                                         Himalaya - 80 ml
+       56AVVW1D      B08DJGSKZ3     8410104895730      3137852           Flor - Suavizante para la ropa               23.65   0.0 %   23.65    130    ES 21  645.62   3,719.99
+                                                                         concentrado, aroma Mediterráneo - Pack de      EUR             EUR                     EUR        EUR
+                                                                         10, hasta 590 dosis
+       56AVVW1D      B08JDBW3LB     8410104894795      3115040           Botanical Origin Detergente para Lavadora     8.60   0.0 %    8.60     10    ES 21   18.07 104.09 EUR
+                                                                         Ecológico apto para Pieles Sensibles,          EUR             EUR                     EUR
+                                                                         Fragancia Flor de Naranjo y Hojas
+                                                                         Cítricas - 35 Lavados
+       56AVVW1D      B08JDHYVM9     8410104894788      3115036           Botanical Origin Detergente para Lavadora     8.60   0.0 %    8.60     25    ES 21   45.16 260.21 EUR
+                                                                         Ecológico apto para Pieles Sensibles,          EUR             EUR                     EUR
+                                                                         Fragancia Jazmín Fresco y Lavanda
+                                                                         Silvestre - 35 Lavados
+       56AVVW1D      B08QP6JN4H     8410104898618      3169858           Botanica de Air Wick - Vela Aromática        30.47   0.0 %   30.47     14    ES 21   89.58 516.16 EUR
+                                                                         Perfumada Decorativa, Ambientador esencia      EUR             EUR                     EUR
+                                                                         para casa con aroma a Vainilla y Magnolia
+
+       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou
+                                                                                                                   ice     t       st      ty      e       unt     nt
+                                                                         del Himalaya, con ingredientes naturales,
+                                                                         Pack de 6
+       56AVVW1D      B08QP6K4RY     8410104898274      3161875           Botanical Origin - Limpiador Multiusos       21.47   0.0 %   21.47     34    ES 21  153.31 883.32 EUR
+                                                                         Quitagrasas Ecológico, Fragancia Jazmín        EUR             EUR                     EUR
+                                                                         Fresco y Lavanda Silvestre - Pack de 6 x
+                                                                         500 ml
+       56AVVW1D      B08VG58BC9     8410104898793      3175686           Colon Vanish Advanced Detergente para        22.40   0.0 %   22.40     24    ES 21  112.92 650.62 EUR
+                                                                         lavadora con quitamanchas, adecuado para       EUR             EUR                     EUR
+                                                                         ropa blanca y de color, Formato cápsulas
+                                                                         - Pack de 2, total 64 dosis
+       56AVVW1D      B08WK4F2W8     4251758401601      3175868           Finish Powerball Ultimate Infinity Shine,    18.15   0.0 %   18.15    125    ES 21  476.44   2,745.19
+                                                                         pastillas para el lavavajillas contra          EUR             EUR                     EUR        EUR
+                                                                         manchas resecas y escudo protector, Pack
+                                                                         de 80 pastillas (embalaje puede variar)
+       56AVVW1D      B095PRM6XC     8410104895747                                                                      4.79   0.0 %    4.79     10    ES 21   10.06  57.96 EUR
+                                                                                                                        EUR             EUR                     EUR
+       56AVVW1D      B09FLTHSGJ     8410104899660      3210645           Botanical Origin Suavizante para Ropa        24.27   0.0 %   24.27      1    ES 21    5.10  29.37 EUR
+                                                                         Ecológico Apto para Pieles Sensibles,          EUR             EUR                     EUR
+                                                                         aroma Flor de naranjo y hojas cítricas -
+                                                                         270 Lavados
+       56AVVW1D      B09KNK5Z17     4251758400550      4251758400567     Finish Limpiamáquinas para el                 8.81   0.0 %    8.81     12    ES 21   22.21 127.97 EUR
+                                                                         lavavajillas en pastillas, elimina cal y       EUR             EUR                     EUR
+                                                                         grasa durante el lavado, 12 dosis
+       56AVVW1D      B09VLLNLFZ     8410104899042      100P Lim 3U       Finish Powerball Power All in 1 Pastillas    18.77   0.0 %   18.77     21    ES 21   82.77 476.92 EUR
+                                                                         para el lavavajillas Limón, 100 pastillas      EUR             EUR                     EUR
+       56AVVW1D      B0B2FBMVCZ     8410104899684      3210647           Botanica de Air Wick, Vela Grande            13.10   0.0 %   13.10     36    ES 21   99.04 570.64 EUR
+                                                                         Aromática Perfumada Decorativa,                EUR             EUR                     EUR
+                                                                         Ambientador Esencia para Casa con
+                                                                         Aroma a Vetiver Caribeño y Sándalo, con
+                                                                         Ingredientes Naturales, 500 gr
+       56AVVW1D      B0B2FBMVCZ     8410104899684      3210647           Botanica de Air Wick, Vela Grande            13.10   0.0 %   13.10     15    ES 21   41.27 237.77 EUR
+                                                                         Aromática Perfumada Decorativa,                EUR             EUR                     EUR
+                                                                         Ambientador Esencia para Casa con
+                                                                         Aroma a Vetiver Caribeño y Sándalo, con
+                                                                         Ingredientes Naturales, 500 gr
+
+
+      Miscellaneous   charges
+       Description                                                         Credit amount       Debit amount           Tax rate         Tax amount       Total amount
+                                                                                  (none)
+
+
+      Totals
+
+      Items                                                                        34,450.92 EUR
+      Miscellaneous charges                                                             0.00 EUR
+      ES 0                                                                              0.00 EUR
+      ES 4                                                                              0.00 EUR
+      ES 10                                                                             0.00 EUR
+      ES 21                                                                         7,234.72 EUR
+      Total tax amount                                                              7,234.72 EUR
+      Invoice amount                                                               41,685.76 EUR

@@ -1,0 +1,42 @@
+
+                                                                                     Invoice
+      Invoice date             13.02.23                        Remittance address            Reckitt Benckiser Healthcare, S.A.
+      Invoice number           2100546327SCR                                                 C/. Matar# 28 Granollers
+      Payment terms            30 EOM                                                        08403
+      Delivery date            13.02.23                        Payee code                    3OICG
+      Amazon Billing Address   AMAZON EU SARL, SUCURSAL EN     Tracking numbers              (none)
+                               ESPANA                          VAT Registration Number.  ESA81036717
+                               Calle de Ramirez de Prado, 5
+                               Madrid,
+                               28045
+                               ES
+      Amazon VAT Registration# ESW0184081H
+      Amazon Warehouse         MAD7
+      Amazon Warehouse Address Carretera antigua Madrid-
+                               Toledo 38D
+                               45200 Illescas
+                               ES
+
+
+      Invoice details
+      PO number    ASIN          ISBN/EAN/UPC     Model #          Description                                  List pr Discoun Unit co Quanti Tax rat Tax amo Total amou
+                                                                                                                ice    t        st      ty     e       unt       nt
+      57176TLE     B06XTP6RF3    8413600131517    101066           Nenuco Champú Suave para Bebé Con Miel y         3.38   0.0 %   3.38      12   ES 21      8.52  49.08 EUR
+                                                                   Camomila, 500 ml (Paquete de 1)                   EUR            EUR                       EUR
+
+
+      Miscellaneous charges
+      Description                                                    Credit amount         Debit amount            Tax rate        Tax amount       Total amount
+                                                                            (none)
+
+
+      Totals
+      Items                                                                                 40.56 EUR
+      Miscellaneous charges                                                                  0.00 EUR
+      ES 0                                                                                   0.00 EUR
+      ES 4                                                                                   0.00 EUR
+      ES 10                                                                                  0.00 EUR
+      ES 21                                                                                  0.00 EUR
+
+      Total tax amount                                                                  0.00 EUR
+      Invoice amount                                                                   40.56 EUR

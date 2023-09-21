@@ -1,0 +1,44 @@
+
+                                                                                       Invoice
+      Invoice date             24.02.23                        Remittance address               Reckitt Benckiser Healthcare, S.A.
+      Invoice number           2100548220SCR                                                    C/. Matar# 28 Granollers
+      Payment terms            30 EOM                                                           08403
+      Delivery date            24.02.23                        Payee code                       3OICG
+      Amazon Billing Address   AMAZON EU SARL, SUCURSAL EN     Tracking numbers                 (none)
+                               ESPANA                          VAT Registration Number.  ESA81036717
+                               Calle de Ramirez de Prado, 5
+                               Madrid,
+                               28045
+                               ES
+      Amazon VAT Registration# ESW0184081H
+      Amazon Warehouse         SVQ1
+      Amazon Warehouse Address Bulevar Agustín Nuñez Llanos
+                               s/n
+                               Poligono La Isla, Dos Hermanas
+                               41703 Seville
+                               ES
+
+
+      Invoice details
+      PO number    ASIN          ISBN/EAN/UPC     Model #          Description                                     List pr Discoun Unit co Quanti Tax rat Tax amo Total amou
+                                                                                                                   ice    t        st      ty     e       unt       nt
+      4YM3W83B     B089MR1MVB    8428076000243    3113004          Durex Naturals H2O Lubricante Base Agua,           18.56   0.0 %  18.56      12   ES 21    46.78  269.50 EUR
+                                                                   100% Natural Sin Fragancia, Colorantes ni            EUR            EUR                       EUR
+                                                                   Agentes Irritantes # 250ml
+
+
+      Miscellaneous charges
+      Description                                                    Credit amount            Debit amount            Tax rate        Tax amount       Total amount
+                                                                              (none)
+
+
+      Totals
+      Items                                                                                   222.72 EUR
+      Miscellaneous charges                                                                     0.00 EUR
+      ES 0                                                                                      0.00 EUR
+      ES 4                                                                                      0.00 EUR
+      ES 10                                                                                     0.00 EUR
+
+      ES 21                                                                             0.00 EUR
+      Total tax amount                                                                  0.00 EUR
+      Invoice amount                                                                  222.72 EUR
