@@ -1,0 +1,31 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "       PO number     ASIN           ISBN/EAN/UPC       Model #           Description                               List pr Discoun Unit co Quanti  Tax rat Tax amo Total amou\n                                                                                                                   ice     t       st      ty      e       unt     nt\n       2AXU3NMK      B0051GCRA4     10021788506284     21TB110           Lotus Biscoff Cookies # Caramelized          17.91   0.0 %   17.91    217             0.00   3,886.47\n                                                                         Biscuit Cookies Snack # 300 Cookies            USD             USD                     USD        USD\n                                                                         Individually Wrapped # Vegan,0.2 Ounce\n                                                                         (Pack of 300)\n       2AXU3NMK      B071P6NN57     18179460201117                       BEAR Real Fruit Snack Rolls - Gluten          7.56   0.0 %    7.56     34             0.00 257.04 USD\n                                                                         Free, Vegan, and Non-GMO - Strawberry #        USD             USD                     USD\n                                                                         Healthy School And Lunch Snacks For Kids\n                                                                         And Adults, 0.7 Ounce (Pack of 12)"
+        },
+        {
+            "role": "user",
+            "content": "Consider Tax Amount,Total Amount have multiline value. Give me the itemized json and if Tax Amount is 0.0 USD then Tax Rate is null"
+        },
+        {
+            "role": "assistant",
+            "content": "{\n  \"items\": [\n    {\n      \"PO number\": \"2AXU3NMK\",\n      \"ASIN\": \"B0051GCRA4\",\n      \"ISBN/EAN/UPC\": \"10021788506284\",\n      \"Model #\": \"21TB110\",\n      \"Description\": \"Lotus Biscoff Cookies # Caramelized Biscuit Cookies Snack # 300 Cookies Individually Wrapped # Vegan,0.2 Ounce (Pack of 300)\",\n      \"List price\": \"17.91 USD\",\n      \"Discount\": \"0.0 %\",\n      \"Unit cost\": \"17.91 USD\",\n      \"Quantity\": \"217\",\n      \"Tax rate\": null,\n      \"Tax amount\": \"0.00 USD\",\n      \"Total amount\": \"3,886.47 USD\"\n    },\n    {\n      \"PO number\": \"2AXU3NMK\",\n      \"ASIN\": \"B071P6NN57\",\n      \"ISBN/EAN/UPC\": \"18179460201117\",\n      \"Model #\": \"\",\n      \"Description\": \"BEAR Real Fruit Snack Rolls - Gluten Free, Vegan, and Non-GMO - Strawberry # Healthy School And Lunch Snacks For Kids And Adults, 0.7 Ounce (Pack of 12)\",\n      \"List price\": \"7.56 USD\",\n      \"Discount\": \"0.0 %\",\n      \"Unit cost\": \"7.56 USD\",\n      \"Quantity\": \"34\",\n      \"Tax rate\": null,\n      \"Tax amount\": \"0.00 USD\",\n      \"Total amount\": \"257.04 USD\"\n    }\n  ]\n}"
+        },
+        {
+            "role": "user",
+            "content": "      PO number    ASIN          ISBN/EAN/UPC     Model #          Description                                    List pr Discoun Unit co Quanti Tax rat Tax amo Total amou\n                                                                                                                  ice    t        st      ty     e      unt       nt\n      8KI5I8UA     B0051GCRA4    10021788506284   21TB110          Lotus Biscoff Cookies # Caramelized               17.91   0.0 %  17.91     547             0.00   9,796.77\n                                                                   Biscuit Cookies Snack # 300 Cookies                 USD            USD                      USD        USD\n                                                                   Individually Wrapped # Vegan,0.2 Ounce\n                                                                   (Pack of 300)"
+        },
+        {
+            "role": "assistant",
+            "content": "{\n  \"items\": [\n    {\n      \"PO number\": \"8KI5I8UA\",\n      \"ASIN\": \"B0051GCRA4\",\n      \"ISBN/EAN/UPC\": \"10021788506284\",\n      \"Model #\": \"21TB110\",\n      \"Description\": \"Lotus Biscoff Cookies # Caramelized Biscuit Cookies Snack # 300 Cookies Individually Wrapped # Vegan,0.2 Ounce (Pack of 300)\",\n      \"List price\": \"17.91 USD\",\n      \"Discount\": \"0.0 %\",\n      \"Unit cost\": \"17.91 USD\",\n      \"Quantity\": \"547\",\n      \"Tax rate\": null,\n      \"Tax amount\": \"0.00 USD\",\n      \"Total amount\": \"9,796.77 USD\"\n    }\n  ]\n}"
+        }
+    ],
+    "temperature": 0,
+    "max_tokens": 15167,
+    "top_p": 1,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "model": "gpt-3.5-turbo-16k",
+    "stream": true
+}

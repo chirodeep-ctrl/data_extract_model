@@ -1,0 +1,37 @@
+2 requests
+27.5 kB transferred
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "                                                                                      Invoice\n      Invoice date             4/29/22                         Remittance address                Lotus Bakeries North America, Inc.\n      Your invoice number      8300119662SCRSCR                                                  1000 Sansome Street Suite 350 San Francisco CA\n      Payment terms            2% 15, 45 NET                                                     94111\n      Amazon Warehouse         CLT2                            Payee code                        ANIZ9\n      Amazon Warehouse Address 10240 Old Dowd Rd               Tracking numbers                  (none)\n                               Charlotte, NC 28214-8082\n\n\n      Invoice details"
+        },
+        {
+            "role": "user",
+            "content": "give me Invoice date,Your invoice number,Payment terms,Amazon Warehouse,Amazon Warehouse Address,Remittance address,Payee code,Tracking numbers in json format"
+        },
+        {
+            "role": "assistant",
+            "content": "{\n  \"Invoice date\": \"4/29/22\",\n  \"Your invoice number\": \"8300119662SCRSCR\",\n  \"Payment terms\": \"2% 15, 45 NET\",\n  \"Amazon Warehouse\": \"CLT2\",\n  \"Amazon Warehouse Address\": \"10240 Old Dowd Rd Charlotte, NC 28214-8082\",\n  \"Remittance address\": \"Lotus Bakeries North America, Inc. 1000 Sansome Street Suite 350 San Francisco CA 94111\",\n  \"Payee code\": \"ANIZ9\",\n  \"Tracking numbers\": \"(none)\"\n}"
+        },
+        {
+            "role": "user",
+            "content": "this is correct output"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm glad the output is correct. If you have any more questions or need further assistance, feel free to ask!"
+        },
+        {
+            "role": "user",
+            "content": "now give me the json for the following input:"
+        }
+    ],
+    "temperature": 0,
+    "max_tokens": 4096,
+    "top_p": 1,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "model": "gpt-3.5-turbo-16k",
+    "stream": true
+}
