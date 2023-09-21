@@ -1,0 +1,28 @@
+
+                                                                                      Invoice
+      Invoice date             8/1/22                          Remittance address                Lotus Bakeries North America, Inc.
+      Your invoice number      8300124263SCRSCR                                                  1000 Sansome Street Suite 350 San Francisco CA
+      Payment terms            2% 15, 45 NET                                                     94111
+      Amazon Warehouse         AVP1                            Payee code                        ANIZ9
+      Amazon Warehouse Address 550 Oak Ridge Road              Tracking numbers                  (none)
+                               Hazle Township, PA 18202-9361
+
+
+      Invoice details
+      PO number    ASIN          ISBN/EAN/UPC     Model #          Description                                    List pr Discoun Unit co Quanti Tax rat Tax amo Total amou
+                                                                                                                  ice    t        st      ty     e      unt       nt
+      8KI5I8UA     B0051GCRA4    10021788506284   21TB110          Lotus Biscoff Cookies # Caramelized               17.91   0.0 %  17.91     547             0.00   9,796.77
+                                                                   Biscuit Cookies Snack # 300 Cookies                 USD            USD                      USD        USD
+                                                                   Individually Wrapped # Vegan,0.2 Ounce
+                                                                   (Pack of 300)
+
+
+      Miscellaneous charges
+      Description                                                    Credit amount            Debit amount           Tax rate        Tax amount       Total amount
+                                                                             (none)
+
+
+      Totals
+      Line items (before tax)                                                              9,796.77 USD
+      Miscellaneous charges (before tax)                                                         0.00 USD
+      Total invoice amount                                                                 9,796.77 USD
