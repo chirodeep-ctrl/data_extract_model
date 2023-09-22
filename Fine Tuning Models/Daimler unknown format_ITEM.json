@@ -1,0 +1,18 @@
+[
+    {
+      "role": "user",
+      "content": "          Pos.      Deliv. note                     Deliv. date  Test report                            EC      Quantity  Unit               Net price EUR   OPU                Net value EUR\n          00010  6170538                            07.09.2022  WR   220825407      R1                                     1      ST                     28,53  1  ST                          28,53\n "
+    },
+    {
+      "role": "user",
+      "content": "Pos.,Deliv. note,Deliv. date,Test report,EC,Quantity,Unit,Net price EUR,OPU,Net value EUR are the item headers. Provide me item level data in single level json format."
+    },
+    {
+      "role": "user",
+      "content": "Test report and EC are separated by more than 4 spaces"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"Pos.\": \"00010\",\n  \"Deliv. note\": \"6170538\",\n  \"Deliv. date\": \"07.09.2022\",\n  \"Test report\": \"220825407\",\n  \"EC\": \"R1\",\n  \"Quantity\": \"1\",\n  \"Unit\": \"ST\",\n  \"Net price EUR\": \"28,53\",\n  \"OPU\": \"1\",\n  \"Net value EUR\": \"28,53\"\n}"
+    }
+  ]
