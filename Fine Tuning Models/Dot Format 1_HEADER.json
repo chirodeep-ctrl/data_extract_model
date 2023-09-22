@@ -1,0 +1,14 @@
+[
+    {
+      "role": "user",
+      "content": "                  BOX   192  MT. STERLING,     IL 62353                                                                           SEE REVERSE FOR\n                                                                                                                           GENERAL TERMS AND CONDITIONS\n                  (217) 773-4411\n                                                                                                                                       INVOICE\n                  SPECIALISTS     IN SALES    & DISTRIBUTIONS\n                                                                                                                        NUMBER           DATE        PAGE\n\n                                                                                                                        4146180-202      01/27/2021      1\n       ACCOUNTS      RECEIVABLE\n\n\n   B         DAIYA FOODS INC                                                                                            REMIT  TO:\n   I         1685 H ST\n   L         BLAINE WA 98230                                                                                               DOT FOODS, INC.\n   L                                                                                                                       #774541\n                                                                                                                           4541 Solutions Center\n   T                                                                                                                       Chicago, IL 60677-4005\n   O\n\n\n    CUSTOMER    NUMBER                                ORDER  NUMBER                                                   TERMS\n\n\n      236524                                                                                  NET DUE  UPON  RECEIPT\n\n"
+    },
+    {
+      "role": "user",
+      "content": "Give me header level details in json judging by their values and keep value as empty if blank."
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"header\": {\n    \"box\": \"192 MT. STERLING, IL 62353\",\n    \"phone\": \"(217) 773-4411\",\n    \"specialists\": \"SPECIALISTS IN SALES & DISTRIBUTIONS\",\n    \"invoiceNumber\": \"4146180-202\",\n    \"date\": \"01/27/2021\",\n    \"page\": \"1\"\n  },\n  \"remittance\": {\n    \"companyName\": \"DAIYA FOODS INC\",\n    \"address\": \"1685 H ST\",\n    \"city\": \"BLAINE\",\n    \"state\": \"WA\",\n    \"zip\": \"98230\"\n  },\n  \"remittanceTo\": {\n    \"companyName\": \"DOT FOODS, INC.\",\n    \"accountNumber\": \"#774541\",\n    \"address\": \"4541 Solutions Center\",\n    \"city\": \"Chicago\",\n    \"state\": \"IL\",\n    \"zip\": \"60677-4005\"\n  },\n  \"customer\": {\n    \"number\": \"236524\",\n    \"orderNumber\": \"\",\n    \"terms\": \"NET DUE UPON RECEIPT\"\n  }\n}"
+    }
+  ]
