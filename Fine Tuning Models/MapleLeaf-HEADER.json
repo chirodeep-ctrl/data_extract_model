@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "                                                                          Credit    Memo\n\n\n\n\n       FILA                                                  Credit Memo Number: 285035867\n                                                             Credit Memo Date:04/22/2023\n       Vendor Number: 4712600                                Merchandise Received Date: 04/17/2023\n\n\n\n\n\n\n\n                 Invoice Information                                     Credit Memo  Details\n       Invoice Number: 01360264                                 Total Paid Merch. Cost:              $11,735.36\n       PO Number:001710406677                                  Total Invoice Before\n                                                                                                   $11,864.32\n       Invoice Date:04/12/2023                                  Terms & Taxes:\n       Due Date: 06/29/2023                                    Credit Amount:                         -$128.96\n       Merchandise Cost:                 $11,864.32            Total Credit Amount :                   -$128.96\n       Invoice Total:                     $11,864.32\n                                                               Payment Information\n       Cash Discount:                         $0.00\n                                                               Invoice Total                        $11,864.32\n       Net Invoice:                      $11,864.32\n                                                               Total Credit Amount                     -$128.96\n                                                               Cash Discount                            $0.00\n\n                                                               Total Payment                        $11,735.36\n"
+    },
+    {
+        "role": "user",
+        "content": "give me Vendor Name,Credit Memo Number,Credit Memo Date,Merchandise Received Date,Vendor Number,Total Paid Merch. Cost,Total Invoice Before,Invoice Number,PO Number,Invoice Date,Due Date,Terms & Taxes,Credit Amount,Merchandise Cost,Total Credit Amount,Invoice Total,Cash Discount,Net Invoice,Total Credit Amount,Cash Discount,Total Payment in json format"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n  \"Vendor Name\": \"FILA\",\n  \"Credit Memo Number\": \"285035867\",\n  \"Credit Memo Date\": \"04/22/2023\",\n  \"Merchandise Received Date\": \"04/17/2023\",\n  \"Vendor Number\": \"4712600\",\n  \"Total Paid Merch. Cost\": \"$11,735.36\",\n  \"Total Invoice Before\": \"$11,864.32\",\n  \"Invoice Number\": \"01360264\",\n  \"PO Number\": \"001710406677\",\n  \"Invoice Date\": \"04/12/2023\",\n  \"Due Date\": \"06/29/2023\",\n  \"Terms & Taxes\": \"\",\n  \"Credit Amount\": \"-$128.96\",\n  \"Merchandise Cost\": \"$11,864.32\",\n  \"Total Credit Amount\": \"-$128.96\",\n  \"Invoice Total\": \"$11,864.32\",\n  \"Cash Discount\": \"$0.00\",\n  \"Net Invoice\": \"$11,864.32\",\n  \"Total Payment\": \"$11,735.36\"\n}"
+    },
+    {
+        "role": "user",
+        "content": "Similarly give me the json for below input:"
+    }
+]

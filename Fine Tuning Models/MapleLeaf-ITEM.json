@@ -1,0 +1,18 @@
+[
+    {
+      "role": "user",
+      "content": "        Costco                                          Quantity\n                           Item Description                        Gross Cost        Net Cost      Extended Cost\n         Item #                                            Paid\n                  SUNRISE BOLOGNA 2KG\n        1153620                                           280.000  $11.0100          $11.0100         $3,082.80\n                  C8L56P224 SL60\n                  MLNS SLICED TURKEY BREAST\n        1370704   3X300G SL35 C                           256.000  $18.1500          $18.0580         $4,622.85\n                  FREIGHT ALLOWANCE  : -$0.0920\n                  MLNS SHREDDED CHICKEN\n        1676256                                           128.000  $14.6100          $14.6100         $1,870.08\n                  2X350G SL 31"
+    },
+    {
+      "role": "user",
+      "content": "Costco Item #,Item Description,Quantity Paid,Gross Cost,Net Cost,Extended Cost are the item headers. Item values are present almost under under item headers. Give me the item level data in json."
+    },
+    {
+      "role": "user",
+      "content": "Item Description can have atmost 1 multiline above item line which is part of the same item and can have any number of multiline below item line. Include ALLOWANCE fields in item description."
+    },
+    {
+      "role": "assistant",
+      "content": "[\n  {\n    \"Costco Item #\": \"1153620\",\n    \"Item Description\": \"SUNRISE BOLOGNA 2KG\\nC8L56P224 SL60\",\n    \"Quantity\": \"280.000\",\n    \"Paid\": \"$11.0100\",\n    \"Gross Cost\": \"$11.0100\",\n    \"Net Cost\": \"$3,082.80\",\n    \"Extended Cost\": \"$3,082.80\"\n  },\n  {\n    \"Costco Item #\": \"1370704\",\n    \"Item Description\": \"MLNS SLICED TURKEY BREAST\\n3X300G SL35 C\\nFREIGHT ALLOWANCE: -$0.0920\",\n    \"Quantity\": \"256.000\",\n    \"Paid\": \"$18.1500\",\n    \"Gross Cost\": \"$18.0580\",\n    \"Net Cost\": \"$4,622.85\",\n    \"Extended Cost\": \"$4,622.85\"\n  },\n  {\n    \"Costco Item #\": \"1676256\",\n    \"Item Description\": \"MLNS SHREDDED CHICKEN\\n2X350G SL 31\",\n    \"Quantity\": \"128.000\",\n    \"Paid\": \"$14.6100\",\n    \"Gross Cost\": \"$14.6100\",\n    \"Net Cost\": \"$1,870.08\",\n    \"Extended Cost\": \"$1,870.08\"\n  }\n]"
+    }
+  ]
