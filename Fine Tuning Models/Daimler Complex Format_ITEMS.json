@@ -1,0 +1,54 @@
+[
+    {
+      "role": "user",
+      "content": "          Material                                                       Short text\\n          Purch.Ord.                 Pos          Del.note               Del.date  ZB            Reason  Quant.  Unit                Net price in EUR   OPU                           Net value\\n                                                                         Prototypen 48V  MFA2    MFB-E   für den  M260a\\n          3059456436                 00001  7181430                      08.12.20  ZG03  1                         50     PC          48,37                        1 PC                2.418,50"
+    },
+    {
+      "role": "user",
+      "content": "Give me item level data in json where 'Material' can be null if value is not under Material in the text"
+    },
+    {
+      "role": "user",
+      "content": "Include short text or Materialbezeichnung"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"Material\": null,\n  \"ShortText\": \"Prototypen 48V MFA2 MFB-E für den M260a\",\n  \"PurchOrd\": \"3059456436\",\n  \"Pos\": \"00001\",\n  \"DelNote\": \"7181430\",\n  \"DelDate\": \"08.12.20\",\n  \"ZB\": \"ZG03\",\n  \"Reason\": \"1\",\n  \"Quant\": \"50\",\n  \"Unit\": \"PC\",\n  \"NetPriceEUR\": \"48.37\",\n  \"OPU\": \"1 PC\",\n  \"NetValue\": \"2,418.50\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "          Material                                                 Materialbezeichnung\n          Einkaufsbeleg              Pos       Lf.Schein           LF-Dat.         ZB       Grund   Menge   ME                 Einzelpreis in EUR   PME                Netto in EUR\n                                                                   DQM-Aufwendungen\n\t\t\t19390852                   00010                         25.01.22  ZB00  3                          1    ST          415,00                    1 ST                    415,00\n"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"Material\": \"19390852\",\n  \"Materialbezeichnung\": \"DQM-Aufwendungen\",\n  \"Einkaufsbeleg\": \"19390852\",\n  \"Pos\": \"00010\",\n  \"Lf.Schein\": \"\",\n  \"LF-Dat.\": \"25.01.22\",\n  \"ZB\": \"ZB00\",\n  \"Grund\": \"3\",\n  \"Menge\": \"1\",\n  \"ME\": \"ST\",\n  \"EinzelpreisEUR\": \"415.00\",\n  \"PME\": \"1 ST\",\n  \"NettoEUR\": \"415.00\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "Material is empty in this text"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"Material\": null,\n  \"Materialbezeichnung\": \"DQM-Aufwendungen\",\n  \"Einkaufsbeleg\": \"19390852\",\n  \"Pos\": \"00010\",\n  \"Lf.Schein\": \"\",\n  \"LF-Dat.\": \"25.01.22\",\n  \"ZB\": \"ZB00\",\n  \"Grund\": \"3\",\n  \"Menge\": \"1\",\n  \"ME\": \"ST\",\n  \"EinzelpreisEUR\": \"415.00\",\n  \"PME\": \"1 ST\",\n  \"NettoEUR\": \"415.00\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "          Material                                                   Materialbezeichnung\n          Einkaufsbeleg              Pos       Lf.Schein             LF-Dat.          ZB        Grund   Menge   ME                 Einzelpreis in EUR   PME            Netto in EUR\n                                                                     LOG   Aufw?nde   LE (Zeit)                     PT0006640301\n          18870460                   00010                           07.06.21  ZB00  97                      0,167     STD         84,00                     1 STD                    14,03\n    \n                                                                     Nacharbeitszeiten                       PT0006640301\n          18870460                   00020                           07.06.21  ZB00  97                        1,0     STD         70,00                     1 STD                    70,00\n\n                                                                     Reklamationszeiten  QM   (GE)  PT0006640301\n          18870460                   00030                           07.06.21  ZB00  97                      1,667     STD         84,00                     1 STD                  140,03\n\n"
+    },
+    {
+      "role": "user",
+      "content": "          MaterialShort text\n              Delivery note                                   Delivery date                  Purch.Ord.                       Pos                    Payment  term       Reason\n                   Price (agreed)                    per  PU              Price (calc.)               Quantity (del.)           PU           Quantity (calc.) PU           Difference in EUR\n\t\t  A 004  540 06 05                                                EL LEITUNGSSATZ\n              363338                                          23.05.22                       5105670577                       00010                  ZG82              01\n                                      4,50                 1 ST                        5,00                           500       ST                        500      ST                        250,00\n          "
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"Material\": \"A 004 540 06 05\",\n  \"ShortText\": \"EL LEITUNGSSATZ\",\n  \"DeliveryNote\": \"363338\",\n  \"DeliveryDate\": \"23.05.22\",\n  \"PurchOrd\": \"5105670577\",\n  \"Pos\": \"00010\",\n  \"PaymentTerm\": \"ZG82\",\n  \"Reason\": \"01\",\n  \"PriceAgreed\": \"4.50\",\n  \"PerPU\": \"1 ST\",\n  \"PriceCalc\": \"5.00\",\n  \"QuantityDel\": \"500\",\n  \"PUDel\": \"ST\",\n  \"QuantityCalc\": \"500\",\n  \"PUCalc\": \"ST\",\n  \"DifferenceEUR\": \"250.00\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "          MaterialMaterialbezeichnung\n              Lieferschein                               Lieferdatum                        Einkaufsbeleg                  Pos            Zahlungsbed.               Grund\n                  EPreis lt. EK                  pro ME               EPreis lt. RE                   Menge  lt. LS           ME      Menge  lt. RE            ME         Differenz in EUR\n          A 177  900 26 10                                           STG  VST  AMB.LCHT\n              87695568                                   12.05.22                           5116655668                     00010          ZG80                     01\n                                  7,77               1 ST                            7,93                        1.760      ST                   1.760         ST                     281,60\n\n"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"Material\": \"A 177 900 26 10\",\n  \"Materialbezeichnung\": \"STG VST AMB.LCHT\",\n  \"Lieferschein\": \"87695568\",\n  \"Lieferdatum\": \"12.05.22\",\n  \"Einkaufsbeleg\": \"5116655668\",\n  \"Pos\": \"00010\",\n  \"Zahlungsbed.\": \"ZG80\",\n  \"Grund\": \"01\",\n  \"EPreis lt. EK\": \"7.77\",\n  \"pro ME\": \"1 ST\",\n  \"EPreis lt. RE\": \"7.93\",\n  \"Menge lt. LS\": \"1,760\",\n  \"ME\": \"ST\",\n  \"Menge lt. RE\": \"1,760\",\n  \"ME\": \"ST\",\n  \"Differenz in EUR\": \"281.60\"\n}"
+    }
+  ]

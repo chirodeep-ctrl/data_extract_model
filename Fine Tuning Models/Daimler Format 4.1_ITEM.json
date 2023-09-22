@@ -1,0 +1,18 @@
+[
+    {
+      "role": "user",
+      "content": "          Material                                                       Short text\n          Purch.Ord.                 Pos          Del.note               Del.date  ZB            Reason  Quant.  Unit                Net price in EUR   OPU                           Net value\n                                                                         Prototypen 48V  MFA2    MFB-E   für den  M260a\n          3059456436                 00001  7181430                      08.12.20  ZG03  1                         50     PC          48,37                        1 PC                2.418,50"
+    },
+    {
+      "role": "user",
+      "content": "Give me item level data in json where 'Material' can be null if value is not under Material in the text"
+    },
+    {
+      "role": "user",
+      "content": "Include short text"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"Material\": null,\n  \"ShortText\": \"Prototypen 48V MFA2 MFB-E für den M260a\",\n  \"PurchOrd\": \"3059456436\",\n  \"Pos\": \"00001\",\n  \"DelNote\": \"7181430\",\n  \"DelDate\": \"08.12.20\",\n  \"ZB\": \"ZG03\",\n  \"Reason\": \"1\",\n  \"Quant\": \"50\",\n  \"Unit\": \"PC\",\n  \"NetPriceEUR\": \"48.37\",\n  \"OPU\": \"1 PC\",\n  \"NetValue\": \"2,418.50\"\n}"
+    }
+  ]

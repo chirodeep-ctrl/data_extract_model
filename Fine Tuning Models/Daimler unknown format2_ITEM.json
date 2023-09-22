@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": "          MaterialMaterialbezeichnung\n             Lieferschein                              Lieferdatum                     Einkaufsbeleg                Pos            Zahlungsbed.            Grund\n                 EPreis lt. EK                pro ME                EPreis lt. RE                Menge  lt. LS         ME      Menge  lt. RE          ME         Differenz in EUR\n          A 177  900 26 10                                         STG  VST  AMB.LCHT\n             88928191                                  19.09.22                        5116655668                   00010          ZG80                   01\n                                7,61               1 ST                          7,93                     3.520      ST                  3.520      ST                    1.126,40\n\n\n\n"
+  },
+  {
+    "role": "user",
+    "content": "give me the item level data in json"
+  },
+  {
+    "role": "assistant",
+    "content": "{\n  \"Material\": \"A 177 900 26 10\",\n  \"Materialbezeichnung\": \"STG VST AMB.LCHT\",\n  \"Lieferschein\": \"88928191\",\n  \"Lieferdatum\": \"19.09.22\",\n  \"Einkaufsbeleg\": \"5116655668\",\n  \"Pos\": \"00010\",\n  \"Zahlungsbed\": \"ZG80\",\n  \"Grund\": \"01\",\n  \"EPreis lt. EK\": \"7,61\",\n  \"pro ME\": \"1 ST\",\n  \"EPreis lt. RE\": \"7,93\",\n  \"Menge lt. LS\": \"3.520 ST\",\n  \"ME\": \"ST\",\n  \"Menge lt. RE\": \"3.520 ST\",\n  \"Differenz in EUR\": \"1.126,40\"\n}"
+  }
+]
