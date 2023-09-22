@@ -1,0 +1,14 @@
+[
+    {
+        "role": "user",
+        "content": "        Costco                                      Quantity\n                           Item Description                    Gross Cost        Net Cost      Extended Cost\n         Item #                                        Paid\n                  FILA TRAZOROS SNEAKER FY23\n        1535479                                       520.000  $24.8000          $22.5680         $11,735.36\n                  SPOILS ALLOWANCE  : -$2.2320\n\n"
+    },
+    {
+        "role": "user",
+        "content": "Costco Item #,Item Description,Quantity Paid,Gross Cost,Net Cost,Extended Cost are the item headers. Item values are present almost under under item headers. Give me the item level data in json considering Item Description can have multiline values and 'Costco Item #' is primary key for each item."
+    },
+    {
+        "role": "assistant",
+        "content": "{\n  \"items\": [\n    {\n      \"Costco Item #\": \"1535479\",\n      \"Item Description\": \"FILA TRAZOROS SNEAKER FY23\\n\\nSPOILS ALLOWANCE  : -$2.2320\",\n      \"Quantity\": \"520.000\",\n      \"Paid\": \"$24.8000\",\n      \"Gross Cost\": \"$22.5680\",\n      \"Net Cost\": \"$11,735.36\"\n    }\n  ]\n}"
+    }
+]
